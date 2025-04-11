@@ -3,9 +3,9 @@
   <!-- You might want to replace this GIF with one you prefer or create! Search for "coding gif banner" or similar. -->
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEEB¢er=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+AxoGM+%F0%9F%91%8B;Call+me+Axo!;I'm+a+learner+%26+developer...;Exploring+the+world+of+code.;Building+cool+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there;I'm+AxoGM+%F0%9F%91%8B;Call+me+Axo!;I'm+a+learner+%26+developer;Exploring+the+code;Building+cool+things!" alt="Typing SVG" />
   </a>
 </p>
 
