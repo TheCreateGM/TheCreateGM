@@ -100,7 +100,7 @@ Here are some of the technologies and tools I work with or am familiar with:
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=TheCreateGM&theme=tokyonight&hide_border=true" alt="AxoGM's Streak Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreateGM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="AxoGM's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreateGM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=donut-vertical&langs_count=10" alt="AxoGM's Top Languages"/>
 </p>
 
 ---
