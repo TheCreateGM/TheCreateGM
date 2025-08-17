@@ -86,7 +86,6 @@
 ## 🎯 Featured Projects & Repositories
 
 ### 🌟 Highlighted Repositories
-*Note: Update these sections with your actual repository details*
 
 #### 🎮 Game Development Projects
 | Repository | Description | Tech Stack | Status |
