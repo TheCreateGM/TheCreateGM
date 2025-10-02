@@ -12,11 +12,11 @@
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎯 **Current Focus** | Full-stack development & interactive game experiences |
-| 🌱 **Learning** | Advanced system design, AI integration & cloud architecture |
-| 🔥 **Status** | Contributing to open source daily & building innovative projects |
-| 🤝 **Collaboration** | Always open to interesting projects & learning opportunities |
-| 📍 **Specialties** | Web Development, Game Development, DevOps & Creative Technology |
+| 🎯 **Current Focus** | Developing Haqote-Pad - Advanced multiplatform note-taking app |
+| 🌱 **Learning** | Cross-platform development, AI integration & voice processing |
+| 🔥 **Status** | Actively building next-generation productivity tools |
+| 🤝 **Collaboration** | Open to note-taking, AI, and productivity app collaborations |
+| 📍 **Specialties** | Full-Stack Development, AI Integration, Cross-Platform Apps & Game Development |
 
 ---
 
@@ -85,7 +85,27 @@
 
 ## 🎯 Featured Projects & Repositories
 
-### 🌟 Highlighted Repositories
+### 🌟 Flagship Project
+
+#### 📝 **Haqote-Pad - Advanced Note-Taking Application**
+| **Aspect** | **Details** |
+|------------|-------------|
+| **🎯 Vision** | Next-generation multiplatform note-taking app inspired by Obsidian |
+| **🌐 Platforms** | Linux, Windows, macOS, Android, iOS |
+| **💻 Tech Stack** | Python, C++, JavaScript, SQLite, Markdown |
+| **📊 Status** | 🔄 Active Development |
+
+**🔑 Key Features:**
+- 📁 **Smart Storage**: Markdown files managed by SQLite database
+- 🏷️ **Advanced Tagging**: Intelligent categorization and organization
+- 🔍 **AI-Powered Search**: Semantic search capabilities
+- 🎙️ **Voice Integration**: Speech-to-text and text-to-speech
+- 🤖 **Multi-AI Assistant**: Support for multiple AI models with user API keys
+- 📊 **Excel-like Tables**: Advanced calculation capabilities
+- 🎨 **Multimedia Support**: Rich media file integration
+- ⚙️ **Customizable UI**: Fully flexible interface design
+
+### 🌟 Other Highlighted Repositories
 
 #### 🎮 Game Development Projects
 | Repository | Description | Tech Stack | Status |
@@ -98,7 +118,7 @@
 | Repository | Description | Tech Stack | Status |
 |------------|-------------|------------|---------|
 | **🌐 [Portfolio-Website]** | Personal portfolio showcasing projects and skills | React, TypeScript, TailwindCSS | ✅ Live |
-| **📱 [Task-Management-App]** | Modern task management application with real-time collaboration | Vue.js, Node.js, MongoDB | 🔄 Development |
+| **📝 [Haqote-Pad]** | Advanced multiplatform note-taking application | Python, C++, JavaScript, SQLite | 🔄 Active Development |
 | **🛒 [E-Commerce-Platform]** | Full-featured e-commerce solution with payment integration | .NET Core, React, PostgreSQL | ✅ Production |
 
 #### 🔧 Developer Tools & Utilities
@@ -131,31 +151,32 @@
 ### 🚀 Active Development
 ```mermaid
 graph TD
-    A[🎮 Game Development] --> B[Unity VR Experience]
-    A --> C[Indie Game Studio Setup]
-    A --> D[Game Engine Architecture]
+    A[📝 Haqote-Pad Development] --> B[Cross-Platform UI]
+    A --> C[AI Integration Layer]
+    A --> D[Voice Processing Engine]
+    A --> E[Advanced Search System]
     
-    E[💻 Full-Stack Apps] --> F[Real-time Collaboration Platform]
-    E --> G[Microservices Architecture]
-    E --> H[Progressive Web Apps]
+    F[🎮 Game Development] --> G[Unity VR Experience]
+    F --> H[2D Platformer Prototype]
     
-    I[🔧 DevOps Tools] --> J[Kubernetes Orchestration]
-    I --> K[Automated Testing Pipelines]
-    I --> L[Infrastructure as Code]
+    I[💻 Full-Stack Apps] --> J[Note Management Backend]
+    I --> K[Real-time Sync System]
+    I --> L[Mobile App Development]
     
-    M[🎨 Creative Projects] --> N[AI-Generated Art Tools]
-    M --> O[Interactive Installations]
-    M --> P[Creative Coding Workshops]
+    M[🔧 DevOps & Tools] --> N[Deployment Automation]
+    M --> O[Testing Frameworks]
+    M --> P[Performance Monitoring]
 ```
 
 ### 🎯 Project Categories & Goals
 | **Category** | **Current Projects** | **Goals 2025** | **Progress** |
 |--------------|---------------------|----------------|--------------|
-| 🎮 **Game Development** | VR puzzle game, 2D platformer prototype | Launch 3 commercial games | 🟡 60% |
-| 💻 **Full-Stack Applications** | SaaS platform, mobile app backend | Scale to 10K+ users | 🟢 80% |
-| 🔧 **Open Source Tools** | CLI utilities, development templates | 100+ GitHub stars | 🟡 70% |
-| 🎨 **Creative Tech Projects** | Interactive installations, generative art | Gallery exhibitions | 🟡 45% |
-| 📚 **Learning & Research** | AI/ML integration, cloud architecture | Industry certifications | 🟢 85% |
+| 📝 **Note-Taking App** | Haqote-Pad multiplatform development | Beta release, 1K+ active users | 🟡 65% |
+| 🎮 **Game Development** | VR puzzle game, 2D platformer prototype | Launch 2 commercial games | 🟡 55% |
+| 💻 **Full-Stack Applications** | SaaS platform, mobile app backend | Scale to 5K+ users | 🟢 75% |
+| 🔧 **Developer Tools** | CLI utilities, note management tools | 100+ GitHub stars | 🟡 70% |
+| 🤖 **AI Integration** | Multi-model AI assistant, semantic search | Production-ready AI features | 🟡 60% |
+| 📚 **Learning & Research** | AI/ML integration, cross-platform development | Industry certifications | 🟢 80% |
 
 ---
 
@@ -240,10 +261,10 @@ Deployment & Monitoring
 ### 🎯 2025 Goals
 | **Quarter** | **Learning Goals** | **Project Goals** | **Community Goals** |
 |-------------|-------------------|-------------------|-------------------|
-| **Q1** | AWS Certification, React Native | Launch VR game, SaaS MVP | 5 open source contributions |
-| **Q2** | Kubernetes CKA, GraphQL | Mobile app release | Tech talk at local meetup |
-| **Q3** | Machine Learning Specialization | AI-powered game features | Mentor 2 junior developers |
-| **Q4** | DevOps best practices | Year-end portfolio update | Organize coding workshop |
+| **Q1** | Cross-platform development, AI integration | Haqote-Pad alpha release | 5 open source contributions |
+| **Q2** | Voice processing, advanced search | Haqote-Pad beta version | Tech talk on note-taking apps |
+| **Q3** | Mobile development, AI features | Mobile app launch | Mentor 2 junior developers |
+| **Q4** | Performance optimization, cloud deployment | Production release, 1K+ users | Haqote-Pad community workshop |
 
 ---
 
@@ -263,12 +284,13 @@ Deployment & Monitoring
 
 ### 🤝 Collaboration Opportunities
 I'm always excited to collaborate on:
+- 📝 **Note-taking and productivity applications**
+- 🤖 **AI integration and voice processing projects**
 - 🎮 **Indie game development** projects
-- 🌐 **Open source web applications** 
+- 🌐 **Cross-platform applications** 
 - 🔧 **Developer tools and utilities**
 - 🎨 **Creative technology experiments**
 - 📚 **Educational content creation**
-- 🤖 **AI/ML integration projects**
 
 ---
 
@@ -365,4 +387,4 @@ I'm always excited to collaborate on:
 
 ---
 
-**Last Updated**: August 2025 • **Next Update**: Monthly • **Status**: Actively Maintained ✅
+**Last Updated**: October 2025 • **Next Update**: Monthly • **Status**: Actively Maintained ✅
