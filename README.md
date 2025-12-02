@@ -11,6 +11,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmongUs11935344?style=social)](https://x.com/AmongUs11935344)
 [![GitHub followers](https://img.shields.io/github/followers/TheCreateGM?style=social)](https://github.com/TheCreateGM)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel)](https://axogm.vercel.app/)
+[![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=flat&logo=gnu-bash)](https://thecreategm.github.io/)
 [![Itch.io](https://img.shields.io/badge/Games-Itch.io-FA5C5C?style=flat&logo=itchdotio)](https://axogm.itch.io/)
 
 </div>
@@ -19,17 +20,17 @@
 
 ## 🚀 About Me
 
-> **Passionate Full-Stack Developer | Game Creator | Tech Innovator**
+> **Passionate Full-Stack Developer | System Optimizer | Tech Innovator**
 
-I'm a multi-talented developer with a passion for creating innovative solutions that push boundaries. Currently focused on building **Haqote-Pad**, a next-generation multiplatform note-taking application that combines AI, voice processing, and seamless cross-platform functionality.
+I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on building **Haqote-Pad**, a next-generation multiplatform note-taking application, while also developing optimization tools for various platforms.
 
 ```typescript
 const axo = {
     location: "🌍 Earth",
-    currentFocus: "📝 Haqote-Pad Development",
+    currentFocus: "📝 Haqote-Pad Development & System Optimization",
     communities: ["GitHub", "Itch.io", "Dev Community"],
-    interests: ["AI Integration", "Game Development", "Cross-Platform Apps"],
-    funFact: "I turn coffee into code ☕ → 💻",
+    interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
+    funFact: "I turn coffee into optimized code ☕ → 💻",
     motto: "Code is poetry, and every project tells a story"
 };
 ```
@@ -42,11 +43,11 @@ const axo = {
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎯 **Current Focus** | Developing Haqote-Pad - Advanced multiplatform note-taking app |
-| 🌱 **Learning** | Cross-platform development, AI integration & voice processing |
-| 🔥 **Status** | Actively building next-generation productivity tools |
-| 🤝 **Open To** | Note-taking, AI, productivity app & game dev collaborations |
-| 📍 **Specialties** | Full-Stack Development • AI Integration • Cross-Platform Apps • Game Development |
+| 🎯 **Current Focus** | Developing Haqote-Pad & system optimization tools |
+| 🌱 **Learning** | Cross-platform development, AI integration & mobile development |
+| 🔥 **Status** | Actively building productivity tools & optimizers |
+| 🤝 **Open To** | Note-taking, AI, optimization & mobile app collaborations |
+| 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
 
 </div>
 
@@ -55,30 +56,52 @@ const axo = {
 ## 💻 Tech Stack & Tools
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Core Languages</b></summary>
+<br>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Frameworks & Backend</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>📱 Mobile Development</b></summary>
 <br>
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 </details>
 
@@ -93,6 +116,7 @@ const axo = {
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 </details>
 
@@ -105,6 +129,9 @@ const axo = {
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/gimp-%23657D8B.svg?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=white)
 
 </details>
 
@@ -116,27 +143,16 @@ const axo = {
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![CMake](https://img.shields.io/badge/cmake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🐧 Operating Systems</b></summary>
+<summary><b>🐧 Operating Systems & Environments</b></summary>
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -144,6 +160,9 @@ const axo = {
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-%2333CCFF.svg?style=for-the-badge&logo=hypr&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
 </details>
 
@@ -166,12 +185,13 @@ const axo = {
 ```text
 🔥 Current Streak         180+ consecutive days
 📊 Weekly Commits         25+ average per week
-🎯 Active Languages       8+ in rotation
-📁 Active Projects        6 concurrent
+🎯 Active Languages       12+ in rotation
+📁 Active Projects        8+ concurrent
 🤝 Collaborations         3 ongoing partnerships
 ⭐ Total Stars            150+ across repos
 🔱 Repository Forks       45+ community forks
 📝 Total Commits          1,200+ contributions
+📦 Total Repositories     50+ public repos
 ```
 
 ---
@@ -182,7 +202,7 @@ const axo = {
 
 <div align="center">
   
-[![Haqote-Pad](https://img.shields.io/badge/Haqote--Pad-Active%20Development-blue?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/TheCreateGM)
+[![Haqote-Pad](https://img.shields.io/badge/Haqote--Pad-Active%20Development-blue?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/TheCreateGM/Haqote-Page)
 
 </div>
 
@@ -194,7 +214,7 @@ const axo = {
 
 **💻 Tech Stack:** 
 - Backend: Python, C++
-- Frontend: JavaScript/TypeScript
+- Frontend: JavaScript/TypeScript, HTML/CSS
 - Database: SQLite
 - Markup: Markdown
 
@@ -215,66 +235,70 @@ const axo = {
 
 ---
 
-### 🎮 Game Development Projects
+### 🔧 System Optimization Tools
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎲 Unity Game Template
-Comprehensive Unity development template with modular systems
+#### 🍎 macOS Optimizer
+Comprehensive optimization tool for macOS systems
 
-**Tech:** Unity, C#, ScriptableObjects  
-**Status:** ✅ Active Maintenance
+**Tech:** Shell Script  
+**Status:** ✅ Active (Updated Dec 2025)  
+**Repo:** [optimize-macos](https://github.com/TheCreateGM/optimize-macos)
 
 **Features:**
-- Modular architecture
-- Reusable components
-- Best practices implementation
+- Easy to use command-line tool
+- System performance enhancement
+- Resource optimization
 
 </td>
 <td width="50%">
 
-#### 🕹️ Godot Experiments
-Collection of experimental game mechanics and prototypes
+#### 💻 Windows 11 Optimizer
+Performance optimization for Windows 11
 
-**Tech:** Godot, GDScript, C#  
-**Status:** 🔄 Active Development
+**Tech:** Batch Script  
+**Status:** ✅ Active (Updated Dec 2025)  
+**Repo:** [optimize-win11](https://github.com/TheCreateGM/optimize-win11)
 
 **Features:**
-- Physics experiments
-- AI behavior tests
-- Shader prototypes
+- System performance tuning
+- Privacy settings optimization
+- Startup management
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### ⚔️ 2D RPG Framework
-Flexible framework with inventory, combat, and dialogue
+#### 📱 Android Optimizers
+Device-specific optimization tools
 
-**Tech:** Unity, C#, JSON  
-**Status:** ✅ Complete
+**Devices:** Samsung A34, Lenovo Tab M10 Gen 3  
+**Status:** ✅ Active (Updated Nov 2025)  
+**Tech:** Shell Script (ADB)
 
 **Features:**
-- Turn-based combat
-- Inventory system
-- Quest management
+- Debloating utilities
+- Performance optimization
+- Battery life improvement
 
 </td>
 <td width="50%">
 
-#### 🎯 Published Games
-Games available on Itch.io
+#### 🎨 Blender Optimizer
+Performance enhancement for Blender 3D
 
-**Downloads:** 500+  
-**Status:** ✅ Live
+**Tech:** Shell Script  
+**Status:** ✅ Complete  
+**License:** MIT
 
-**Highlights:**
-- Positive reviews
-- Active community
-- Regular updates
+**Features:**
+- Render optimization
+- Memory management
+- Workflow enhancement
 
 </td>
 </tr>
@@ -288,29 +312,208 @@ Games available on Itch.io
 <tr>
 <td width="33%">
 
-#### 🌐 Portfolio Website
-Personal portfolio site
+#### 🔬 LabTech
+Geotechnical engineering lab app
 
-**Stack:** React, TypeScript, TailwindCSS  
-**Status:** ✅ [Live](https://axogm.vercel.app/)
+**Stack:** Ionic, Angular, TypeScript  
+**Status:** ✅ Active (Updated Nov 2025)
 
-</td>
-<td width="33%">
-
-#### 🛒 E-Commerce Platform
-Full-featured store with payments
-
-**Stack:** .NET Core, React, PostgreSQL  
-**Status:** ✅ Production
+**Purpose:** Comprehensive mobile app for geotechnical lab tests
 
 </td>
 <td width="33%">
 
-#### 📊 Code Analytics Tool
-Project metrics analyzer
+#### 🌐 Portfolio v2
+Enhanced portfolio site
 
-**Stack:** Python, Flask, D3.js  
-**Status:** 🔄 Beta Testing
+**Stack:** TypeScript, React  
+**Status:** ✅ Active (Updated Nov 2025)  
+**Stars:** ⭐ 1
+
+</td>
+<td width="33%">
+
+#### 🖥️ Terminal Portfolio
+Interactive terminal-style portfolio
+
+**Tech:** HTML, JavaScript  
+**Status:** ✅ [Live](https://thecreategm.github.io/)
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 📝 Todo App
+Modern task management
+
+**Stack:** React, TailwindCSS  
+**Status:** ✅ Complete (Aug 2025)
+
+</td>
+<td width="33%">
+
+#### 🔐 Login Systems
+Authentication implementations
+
+**Stack:** PHP, Laravel  
+**Status:** ✅ Complete (Sep 2025)
+
+</td>
+<td width="33%">
+
+#### 📱 SQL Database Note
+Android note-taking app
+
+**Stack:** Kotlin, SQLite  
+**Status:** ✅ Complete (Oct 2025)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Educational & Development Tools
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 Java Projects
+Multiple Java development exercises
+
+**Includes:**
+- GUI applications
+- OOP demonstrations
+- Academic projects
+
+**Status:** 🔄 Ongoing
+
+</td>
+<td width="50%">
+
+#### 🐍 Python Examples
+W3School exercises with OOP
+
+**Stack:** Python  
+**Status:** ✅ Complete (Jun 2025)
+
+**Features:**
+- Object-oriented implementations
+- Best practices examples
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔷 Visual Basic Projects
+VB.NET applications
+
+**Includes:**
+- Tea Shop calculator
+- GUI examples using VB2010
+
+**Status:** ✅ Complete (May 2025)
+
+</td>
+<td width="50%">
+
+#### 🐍 Tkinter Studio
+Visual Studio-style GUI for Tkinter
+
+**Tech:** Python, Tkinter  
+**Status:** 🔄 Work in Progress (May 2025)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎮 Game Development & Minecraft
+
+<table>
+<tr>
+<td width="50%">
+
+#### ⛏️ PocketMine-MP
+Custom Minecraft Bedrock server
+
+**Tech:** PHP, C, C++  
+**Status:** ✅ Active (Jul 2025)  
+**License:** GNU LGPL v3.0
+
+**Features:**
+- PHP 8 support
+- Alpha 1.3.10 version
+- Custom server software
+
+</td>
+<td width="50%">
+
+#### 🤖 Collaborative Robots
+Robot configuration project
+
+**Tech:** Configuration files  
+**Status:** ✅ Complete (May 2025)
+
+**Purpose:** Configuration for collaborative robot systems
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Web Development Templates
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎨 Web1 Template
+Web design templates collection
+
+**Tech:** HTML, CSS  
+**Status:** ✅ Complete (May 2025)
+
+</td>
+<td width="50%">
+
+#### 🏚️ Old Portfolio
+2022 portfolio archive
+
+**Tech:** HTML, CSS, JavaScript  
+**Status:** 📦 Archived (Aug 2025)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔧 Optimization & Utilities
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💾 XAMPP Optimization
+XAMPP performance enhancement
+
+**Tech:** Batch Script  
+**Status:** ✅ Complete (Oct 2025)
+
+</td>
+<td width="50%">
+
+#### 📱 Termux Rice
+Termux customization configurations
+
+**Tech:** Shell Script  
+**Status:** ✅ Complete (Oct 2025)
 
 </td>
 </tr>
@@ -322,25 +525,27 @@ Project metrics analyzer
 
 ### Q1 2025 (Jan - Mar)
 - [x] Cross-platform development research
+- [x] System optimization tools for major platforms
 - [ ] Haqote-Pad alpha release
 - [ ] 5 open source contributions
 - [ ] Start AI integration phase
 
 ### Q2 2025 (Apr - Jun)
 - [ ] Voice processing implementation
-- [ ] Advanced search features
+- [ ] Advanced search features for Haqote-Pad
+- [ ] Mobile app development initiation
 - [ ] Haqote-Pad beta release
 - [ ] Tech talk on note-taking apps
 
 ### Q3 2025 (Jul - Sep)
-- [ ] Mobile app development
+- [ ] LabTech enhancements
 - [ ] AI features integration
-- [ ] Mobile app launch
+- [ ] Mobile app launch for Haqote-Pad
 - [ ] Mentor 2 junior developers
 
 ### Q4 2025 (Oct - Dec)
-- [ ] Performance optimization
-- [ ] Cloud deployment
+- [ ] Performance optimization across all projects
+- [ ] Cloud deployment preparation
 - [ ] Production release with 1K+ users
 - [ ] Haqote-Pad community workshop
 
@@ -352,13 +557,13 @@ Project metrics analyzer
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 🎮 **Published Games** | ✅ Complete | 2 games on Itch.io with 500+ downloads |
+| 📦 **50+ Repositories** | ✅ Complete | Diverse range of projects |
 | ⭐ **GitHub Stars** | ✅ Complete | 150+ stars across repositories |
 | 🤝 **Open Source** | ✅ Complete | 15+ project contributions |
-| 👨‍🏫 **Mentorship** | ✅ Complete | Mentored 5+ junior developers |
-| 🚀 **Production Apps** | ✅ Complete | 3 major applications live |
-| ⚡ **Uptime Record** | ✅ Complete | 99.9% uptime on all services |
-| 🔒 **Security** | ✅ Complete | Implemented best practices |
+| 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers |
+| 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
+| 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
+| ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
 
 </div>
 
@@ -371,21 +576,26 @@ Project metrics analyzer
 ```mermaid
 mindmap
   root((Learning Path))
-    AI & ML
-      TensorFlow
-      PyTorch
+    Mobile Development
+      Ionic Framework
+      Flutter
+      Android Native
+      Cross-Platform
+    System Optimization
+      Performance Tuning
+      Resource Management
+      Platform-Specific
+      Automation
+    AI & Integration
+      Voice Processing
+      Semantic Search
+      Multi-Model Support
       NLP
-      Computer Vision
-    Cloud Architecture
-      AWS Solutions
-      Microservices
-      Serverless
-      Kubernetes
-    Cybersecurity
-      Secure Coding
-      Penetration Testing
-      Zero Trust
-      Compliance
+    Web Technologies
+      TypeScript
+      Modern Frameworks
+      Progressive Web Apps
+      API Development
 ```
 
 ### 💪 Skill Proficiency Matrix
@@ -394,12 +604,12 @@ mindmap
 
 | Skill Category | Level | Experience | Projects |
 |---------------|-------|------------|----------|
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | 4+ years | 15+ |
-| **Game Development** | ⭐⭐⭐⭐ | 3+ years | 8+ |
-| **DevOps & Cloud** | ⭐⭐⭐⭐ | 2+ years | 10+ |
-| **UI/UX Design** | ⭐⭐⭐ | 2+ years | 12+ |
-| **Mobile Development** | ⭐⭐⭐ | 1+ years | 3+ |
-| **AI Integration** | ⭐⭐⭐ | 1+ years | 5+ |
+| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | 4+ years | 20+ |
+| **System Optimization** | ⭐⭐⭐⭐⭐ | 3+ years | 15+ |
+| **Mobile Development** | ⭐⭐⭐⭐ | 2+ years | 8+ |
+| **DevOps & Scripting** | ⭐⭐⭐⭐ | 3+ years | 12+ |
+| **Game Development** | ⭐⭐⭐ | 2+ years | 5+ |
+| **UI/UX Design** | ⭐⭐⭐ | 2+ years | 10+ |
 
 </div>
 
@@ -414,6 +624,7 @@ mindmap
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AmongUs11935344)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://axogm.vercel.app/)
+[![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=for-the-badge&logo=gnu-bash)](https://thecreategm.github.io/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://axogm.itch.io/)
 
 ### 💡 Open to Collaborate On
@@ -421,12 +632,13 @@ mindmap
 ```yaml
 Interests:
   - Note-taking & productivity applications
+  - System optimization & performance tools
   - AI integration & voice processing projects
-  - Indie game development
+  - Mobile app development (Ionic, Flutter, Android)
   - Cross-platform applications
   - Developer tools & utilities
-  - Creative technology experiments
   - Educational content creation
+  - Open source contributions
 ```
 
 ### ☕ Support My Work
@@ -437,7 +649,7 @@ Interests:
 **Sponsor Benefits:**
 - 🎯 Priority support
 - 📚 Early access to projects
-- 🎮 Exclusive content
+- 🔧 Exclusive optimization tools
 - 💬 Direct communication
 - 🏆 Recognition in credits
 
@@ -479,6 +691,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: November 2025 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: December 2025 • Status: Actively Maintained ✅</sub>
 
 </div>
