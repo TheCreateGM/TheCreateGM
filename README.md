@@ -22,12 +22,12 @@
 
 > **Passionate Full-Stack Developer | System Optimizer | Tech Innovator**
 
-I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on building **Haqote-Pad**, a next-generation multiplatform note-taking application, while also developing optimization tools for various platforms.
+I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms, while also creating high-quality **3D assets** for game development.
 
 ```typescript
 const axo = {
     location: "🌍 Earth",
-    currentFocus: "📝 Haqote-Pad Development & System Optimization",
+    currentFocus: "⚡ System Optimization & 3D Modeling",
     communities: ["GitHub", "Itch.io", "Dev Community"],
     interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
     funFact: "I turn coffee into optimized code ☕ → 💻",
@@ -43,10 +43,10 @@ const axo = {
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎯 **Current Focus** | Developing Haqote-Pad & system optimization tools |
+| 🎯 **Current Focus** | System optimization tools & 3D Game Assets |
 | 🌱 **Learning** | Cross-platform development, AI integration & mobile development |
 | 🔥 **Status** | Actively building productivity tools & optimizers |
-| 🤝 **Open To** | Note-taking, AI, optimization & mobile app collaborations |
+| 🤝 **Open To** | System optimization, 3D modeling & mobile app collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
 
 </div>
@@ -198,40 +198,24 @@ const axo = {
 
 ## 🌟 Featured Projects
 
-### 🏆 Flagship Project: Haqote-Pad
+### 🎨 3D Assets & Game Dev
 
 <div align="center">
   
-[![Haqote-Pad](https://img.shields.io/badge/Haqote--Pad-Active%20Development-blue?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/TheCreateGM/Haqote-Page)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Assets-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://axogm.itch.io/)
 
 </div>
 
-> **Next-generation multiplatform note-taking application inspired by Obsidian**
+> **High-quality 3D weapon models and game assets**
 
-**🎯 Vision:** Create the ultimate note-taking experience combining power, flexibility, and AI integration
+**AVAILABLE ASSETS:**
+*   **AK 9x39 CQBR**: Custom and standard variants
+*   **ACR Bushmaster**: Modular rifle system
+*   **AA-12**: Automatic shotgun with custom attachments
+*   **A I AWSM**: Sniper rifle system
+*   **Classic Rifles**: 1866 Yellowboy & 1860 Henry
 
-**🌐 Platforms:** Linux • Windows • macOS • Android • iOS
-
-**💻 Tech Stack:** 
-- Backend: Python, C++
-- Frontend: JavaScript/TypeScript, HTML/CSS
-- Database: SQLite
-- Markup: Markdown
-
-**📊 Development Progress:** 🟢🟢🟢🟡⚪ 65%
-
-#### ✨ Key Features
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 📁 **Smart Storage** | Markdown files with SQLite management | ✅ Complete |
-| 🏷️ **Advanced Tagging** | Intelligent categorization system | 🔄 In Progress |
-| 🔍 **AI Search** | Semantic search powered by AI | 🔄 In Progress |
-| 🎙️ **Voice Integration** | Speech-to-text & text-to-speech | 📋 Planned |
-| 🤖 **Multi-AI Assistant** | Multiple AI models support | 📋 Planned |
-| 📊 **Excel Tables** | Spreadsheet-like calculations | 🔄 In Progress |
-| 🎨 **Multimedia** | Rich media file support | ✅ Complete |
-| ⚙️ **Customizable UI** | Fully flexible interface | 🔄 In Progress |
+[View all assets on Itch.io](https://axogm.itch.io/)
 
 ---
 
@@ -521,33 +505,33 @@ Termux customization configurations
 
 ---
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
-### Q1 2025 (Jan - Mar)
+### Q1 2026 (Jan - Mar)
 - [x] Cross-platform development research
 - [x] System optimization tools for major platforms
-- [ ] Haqote-Pad alpha release
+- [ ] Release Samsung A34 Optimizer v2.0
 - [ ] 5 open source contributions
-- [ ] Start AI integration phase
+- [ ] Create 3 new 3D weapon asset packs
 
-### Q2 2025 (Apr - Jun)
-- [ ] Voice processing implementation
-- [ ] Advanced search features for Haqote-Pad
+### Q2 2026 (Apr - Jun)
+- [ ] Advanced macOS optimization scripts
+- [ ] Terminal Profile v2 enhancements
 - [ ] Mobile app development initiation
-- [ ] Haqote-Pad beta release
-- [ ] Tech talk on note-taking apps
+- [ ] Expand Itch.io asset portfolio
+- [ ] Tech talk on system optimization
 
-### Q3 2025 (Jul - Sep)
+### Q3 2026 (Jul - Sep)
 - [ ] LabTech enhancements
-- [ ] AI features integration
-- [ ] Mobile app launch for Haqote-Pad
+- [ ] AI features integration for optimization tools
+- [ ] Complete "Classical Weapons" collection
 - [ ] Mentor 2 junior developers
 
-### Q4 2025 (Oct - Dec)
+### Q4 2026 (Oct - Dec)
 - [ ] Performance optimization across all projects
 - [ ] Cloud deployment preparation
-- [ ] Production release with 1K+ users
-- [ ] Haqote-Pad community workshop
+- [ ] Production release of all major tools
+- [ ] Community workshop on game assets
 
 ---
 
@@ -691,6 +675,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: December 2025 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: January 2026 • Status: Actively Maintained ✅</sub>
 
 </div>
