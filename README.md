@@ -171,13 +171,15 @@ const axo = {
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheCreateGM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCreateGM&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreateGM&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheCreateGM&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheCreateGM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCreateGM&theme=tokyonight&hide_border=true" />
+
+  <br>
+
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheCreateGM&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheCreateGM&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
 </div>
 
 ### 📊 Development Metrics
@@ -650,17 +652,6 @@ Interests:
 
 </div>
 
----
-
-## 📊 Profile Activity
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=TheCreateGM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=TheCreateGM&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
-
-</div>
 
 ---
 
