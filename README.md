@@ -188,12 +188,12 @@ const axo = {
 🔥 Current Streak         180+ consecutive days
 📊 Weekly Commits         25+ average per week
 🎯 Active Languages       12+ in rotation
-📁 Active Projects        8+ concurrent
+📁 Active Projects        10+ concurrent
 🤝 Collaborations         3 ongoing partnerships
 ⭐ Total Stars            150+ across repos
 🔱 Repository Forks       45+ community forks
 📝 Total Commits          1,200+ contributions
-📦 Total Repositories     50+ public repos
+📦 Total Repositories     60+ public repos
 ```
 
 ---
@@ -211,11 +211,10 @@ const axo = {
 > **High-quality 3D weapon models and game assets**
 
 **AVAILABLE ASSETS:**
-*   **AK 9x39 CQBR**: Custom and standard variants
-*   **ACR Bushmaster**: Modular rifle system
-*   **AA-12**: Automatic shotgun with custom attachments
-*   **A I AWSM**: Sniper rifle system
-*   **Classic Rifles**: 1866 Yellowboy & 1860 Henry
+*   **Sci-Fi Series**: [Alstra](https://axogm.itch.io/low-poly-alstra), [Laniakea](https://axogm.itch.io/low-poly-laniakea), [Katniss](https://axogm.itch.io/low-poly-katniss), [Syrina](https://axogm.itch.io/low-poly-syrina), [Trillian](https://axogm.itch.io/low-poly-trillian)
+*   **Modern Warfare**: [HK G11](https://axogm.itch.io/low-poly-heckler-koch-g11), [VSS Vintorez](https://axogm.itch.io/low-poly-vss-special-sniper-rifle), [AS Val](https://axogm.itch.io/low-poly-as-val), [P90](https://axogm.itch.io/low-poly-p90)
+*   **Heavy Weapons**: [FGM-148 Javelin](https://axogm.itch.io/low-poly-fgm-148-javelin), [RPG-7](https://axogm.itch.io/low-poly-rpg-7), [M72 LAW](https://axogm.itch.io/low-poly-m72-law)
+*   **Classic Rifles**: [1866 Yellowboy](https://axogm.itch.io/), [1860 Henry](https://axogm.itch.io/)
 
 [View all assets on Itch.io](https://axogm.itch.io/)
 
@@ -262,12 +261,12 @@ Performance optimization for Windows 11
 #### 📱 Android Optimizers
 Device-specific optimization tools
 
-**Devices:** Samsung A34, Lenovo Tab M10 Gen 3  
-**Status:** ✅ Active (Updated Nov 2025)  
-**Tech:** Shell Script (ADB)
+**Devices:** Samsung A34, Lenovo Tab M10
+**Status:** ✅ Active (Updated 2026)
+**Repos:** [samsung-a34](https://github.com/TheCreateGM/samsung-a34-optimizer), [lenovo-tab-m10](https://github.com/TheCreateGM/lenovo-tab-m10-gen3-optimize)
 
 **Features:**
-- Debloating utilities
+- Debloating utilities (ADB)
 - Performance optimization
 - Battery life improvement
 
@@ -303,18 +302,21 @@ Geotechnical engineering lab app
 
 **Stack:** Ionic, Angular, TypeScript  
 **Status:** ✅ Active (Updated Nov 2025)
+**Repo:** [LabTech](https://github.com/TheCreateGM/LabTech)
 
 **Purpose:** Comprehensive mobile app for geotechnical lab tests
 
 </td>
 <td width="33%">
 
-#### 🌐 Portfolio v2
-Enhanced portfolio site
+#### 🌐 Web Applications
+Modern web solutions
 
-**Stack:** TypeScript, React  
-**Status:** ✅ Active (Updated Nov 2025)  
-**Stars:** ⭐ 1
+**Projects:**
+- [Gallery](https://github.com/TheCreateGM/interactive-canva-gallery) (Interactive)
+- [Account Mgmt](https://github.com/TheCreateGM/vue-account-management) (Vue)
+- [Notifications](https://github.com/TheCreateGM/fcm-notification-app) (FCM)
+- [Flights](https://github.com/TheCreateGM/cheapest-flights) (Tracker)
 
 </td>
 <td width="33%">
@@ -330,11 +332,13 @@ Interactive terminal-style portfolio
 <tr>
 <td width="33%">
 
-#### 📝 Todo App
-Modern task management
+#### �️ AI & Tools
+Advanced utilities
 
-**Stack:** React, TailwindCSS  
-**Status:** ✅ Complete (Aug 2025)
+**Projects:**
+- [Google Maps LLM](https://github.com/TheCreateGM/google-maps-llm)
+- [Shift Finder](https://github.com/TheCreateGM/shift-finder-app)
+- [HackNews Clone](https://github.com/TheCreateGM/hack-news-clone)
 
 </td>
 <td width="33%">
@@ -543,7 +547,7 @@ Termux customization configurations
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **50+ Repositories** | ✅ Complete | Diverse range of projects |
+| 📦 **60+ Repositories** | ✅ Complete | Diverse range of projects |
 | ⭐ **GitHub Stars** | ✅ Complete | 150+ stars across repositories |
 | 🤝 **Open Source** | ✅ Complete | 15+ project contributions |
 | 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers |
@@ -667,6 +671,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: January 2026 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: February 2026 • Status: Actively Maintained ✅</sub>
 
 </div>
