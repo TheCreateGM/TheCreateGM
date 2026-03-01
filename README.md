@@ -13,6 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel)](https://axogm.vercel.app/)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=flat&logo=gnu-bash)](https://thecreategm.github.io/)
 [![Itch.io](https://img.shields.io/badge/Games-Itch.io-FA5C5C?style=flat&logo=itchdotio)](https://axogm.itch.io/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/creategm10)
 
 </div>
 
@@ -211,10 +213,14 @@ const axo = {
 > **High-quality 3D weapon models and game assets**
 
 **AVAILABLE ASSETS:**
-*   **Sci-Fi Series**: [Alstra](https://axogm.itch.io/low-poly-alstra), [Laniakea](https://axogm.itch.io/low-poly-laniakea), [Katniss](https://axogm.itch.io/low-poly-katniss), [Syrina](https://axogm.itch.io/low-poly-syrina), [Trillian](https://axogm.itch.io/low-poly-trillian)
-*   **Modern Warfare**: [HK G11](https://axogm.itch.io/low-poly-heckler-koch-g11), [VSS Vintorez](https://axogm.itch.io/low-poly-vss-special-sniper-rifle), [AS Val](https://axogm.itch.io/low-poly-as-val), [P90](https://axogm.itch.io/low-poly-p90)
-*   **Heavy Weapons**: [FGM-148 Javelin](https://axogm.itch.io/low-poly-fgm-148-javelin), [RPG-7](https://axogm.itch.io/low-poly-rpg-7), [M72 LAW](https://axogm.itch.io/low-poly-m72-law)
-*   **Classic Rifles**: [1866 Yellowboy](https://axogm.itch.io/), [1860 Henry](https://axogm.itch.io/)
+*   **Sci-Fi Series**: [Alstra](https://axogm.itch.io/low-poly-alstra), [Laniakea](https://axogm.itch.io/low-poly-laniakea), [Katniss](https://axogm.itch.io/low-poly-katniss), [Syrina](https://axogm.itch.io/low-poly-syrina), [Trillian](https://axogm.itch.io/low-poly-trillian), [Frost](https://axogm.itch.io/low-poly-frost), [Optimis](https://axogm.itch.io/low-poly-optimis)
+*   **Modern Warfare**: [HK G11](https://axogm.itch.io/low-poly-heckler-koch-g11), [VSS Vintorez](https://axogm.itch.io/low-poly-vss-special-sniper-rifle), [AS Val](https://axogm.itch.io/low-poly-as-val), [P90](https://axogm.itch.io/low-poly-p90), [AK-12](https://axogm.itch.io/low-poly-ak-12), [AK-74](https://axogm.itch.io/low-poly-ak-74), [AK-47](https://axogm.itch.io/low-poly-ak-47), [AK-101](https://axogm.itch.io/low-poly-ak-101), [AK-103](https://axogm.itch.io/low-poly-ak-103), [AEK-971](https://axogm.itch.io/low-poly-aek-971)
+*   **Heavy Weapons**: [FGM-148 Javelin](https://axogm.itch.io/low-poly-fgm-148-javelin), [RPG-7](https://axogm.itch.io/low-poly-rpg-7), [M72 LAW](https://axogm.itch.io/low-poly-m72-law), [M1A1 Bazooka](https://axogm.itch.io/low-poly-m1a1-bazooka), [Panzerschreck](https://axogm.itch.io/low-poly-panzerschreck), [C4](https://axogm.itch.io/low-poly-c4)
+*   **Classic Rifles**: [1866 Yellowboy](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle), [1860 Henry](https://axogm.itch.io/1860-henry-rifle), [Model 1822 Musket](https://axogm.itch.io/low-poly-model-1822-musket), [Flintlock](https://axogm.itch.io/low-poly-flintlock)
+*   **Custom Variants**: [AK 9x39 CQBR](https://axogm.itch.io/ak-9x39-cqbr-custom), [ACR Bushmaster](https://axogm.itch.io/acr-bushmaster-custom), [AA-12](https://axogm.itch.io/aa-12-custom)
+*   **Specialty**: [Titanium AK-47](https://axogm.itch.io/low-poly-titanium-ak-47), [DLQ33](https://axogm.itch.io/low-poly-dlq33), [AK-5C](https://axogm.itch.io/low-poly-ak-5c), [KSG Bullpup](https://axogm.itch.io/low-poly-ksg-series-bullpup-shotgun)
+*   **Pistols & SMGs**: [Beretta 93R](https://axogm.itch.io/low-poly-beretta-93r), [Dan Wesson M1911](https://axogm.itch.io/low-poly-dan-wesson-m1911-acp-pistol), [Borchardt C-93](https://axogm.itch.io/low-poly-borchardt-c-93), [Daewoo K7](https://axogm.itch.io/low-poly-daewoo-telecom-k7), [Suomi KP/-31](https://axogm.itch.io/low-poly-suomi-kp-31)
+*   **Game Assets**: [3D Model Freddy FNAF](https://axogm.itch.io/3d-model-freddy-fnaf), [3D Model GOGG](https://axogm.itch.io/3d-model-gogg)
 
 [View all assets on Itch.io](https://axogm.itch.io/)
 
@@ -547,7 +553,7 @@ Termux customization configurations
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **60+ Repositories** | ✅ Complete | Diverse range of projects |
+| 📦 **64 Repositories** | ✅ Complete | Diverse range of projects |
 | ⭐ **GitHub Stars** | ✅ Complete | 150+ stars across repositories |
 | 🤝 **Open Source** | ✅ Complete | 15+ project contributions |
 | 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers |
@@ -612,6 +618,8 @@ mindmap
 ### 📬 Get in Touch
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AmongUs11935344)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/creategm10)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://axogm.vercel.app/)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=for-the-badge&logo=gnu-bash)](https://thecreategm.github.io/)
@@ -671,6 +679,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: February 2026 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: March 2026 • Status: Actively Maintained ✅</sub>
 
 </div>
