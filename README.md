@@ -24,13 +24,13 @@
 
 > **Passionate Full-Stack Developer | System Optimizer | Tech Innovator**
 
-I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms, while also creating high-quality **3D assets** for game development.
+I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms, while also creating high-quality **3D assets** for game development. Co-founder of **[XeloDev](https://github.com/XeloDev)**, a small development team focused on system optimization, software engineering, and game development.
 
 ```typescript
 const axo = {
     location: "🌍 Earth",
     currentFocus: "⚡ System Optimization & 3D Modeling",
-    communities: ["GitHub", "Itch.io", "Dev Community"],
+    communities: ["GitHub", "Itch.io", "XeloDev", "Dev Community"],
     interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
     funFact: "I turn coffee into optimized code ☕ → 💻",
     motto: "Code is poetry, and every project tells a story"
@@ -48,7 +48,7 @@ const axo = {
 | 🎯 **Current Focus** | System optimization tools & 3D Game Assets |
 | 🌱 **Learning** | Cross-platform development, AI integration & mobile development |
 | 🔥 **Status** | Actively building productivity tools & optimizers |
-| 🤝 **Open To** | System optimization, 3D modeling & mobile app collaborations |
+| 🤝 **Open To** | System optimization, 3D modeling, mobile app & XeloDev collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
 
 </div>
@@ -565,6 +565,22 @@ Termux customization configurations
 
 ---
 
+## 🏢 XeloDev Organization
+
+> **Build Smart. Run Fast.**
+
+[XeloDev](https://github.com/XeloDev) is a small, independent development team focused on building high-performance systems, reliable software, and immersive game experiences. We combine low-level system optimization with modern development practices to create efficient, scalable, and user-focused solutions.
+
+**Focus Areas:**
+- System Development & Optimization
+- Software Engineering
+- Game Development
+
+**Team Members:** [Axo](https://github.com/TheCreateGM), [Notim](https://github.com/notim66)  
+**Contact:** [xelodev4@gmail.com](mailto:xelodev4@gmail.com)
+
+---
+
 ## 📚 Learning & Growth
 
 ### 🎓 Current Focus Areas
@@ -620,6 +636,8 @@ mindmap
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AmongUs11935344)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/creategm10)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCreateGM)
+[![XeloDev](https://img.shields.io/badge/XeloDev-Organization-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XeloDev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://axogm.vercel.app/)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=for-the-badge&logo=gnu-bash)](https://thecreategm.github.io/)
@@ -634,6 +652,7 @@ Interests:
   - AI integration & voice processing projects
   - Mobile app development (Ionic, Flutter, Android)
   - Cross-platform applications
+  - XeloDev team projects & collaborations
   - Developer tools & utilities
   - Educational content creation
   - Open source contributions
@@ -679,6 +698,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: March 2026 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: April 2026 • Status: Actively Maintained ✅</sub>
 
 </div>
