@@ -638,7 +638,7 @@ mindmap
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/creategm10)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCreateGM)
 [![XeloDev](https://img.shields.io/badge/XeloDev-Organization-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XeloDev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@proton.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://axogm.vercel.app/)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=for-the-badge&logo=gnu-bash)](https://thecreategm.github.io/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://axogm.itch.io/)
