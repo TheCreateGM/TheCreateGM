@@ -15,6 +15,7 @@
 [![Itch.io](https://img.shields.io/badge/Games-Itch.io-FA5C5C?style=flat&logo=itchdotio)](https://axogm.itch.io/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/creategm10)
+[![Fedora COPR](https://img.shields.io/badge/Fedora_COPR-Packages-294172?style=flat&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/axogm/)
 
 </div>
 
@@ -30,7 +31,7 @@ I'm a multi-talented developer with a passion for creating innovative solutions 
 const axo = {
     location: "🌍 Earth",
     currentFocus: "⚡ System Optimization & 3D Modeling",
-    communities: ["GitHub", "Itch.io", "XeloDev", "Dev Community"],
+    communities: ["GitHub", "Itch.io", "XeloDev", "Dev Community", "Fedora COPR"],
     interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
     funFact: "I turn coffee into optimized code ☕ → 💻",
     motto: "Code is poetry, and every project tells a story"
@@ -50,6 +51,7 @@ const axo = {
 | 🔥 **Status** | Actively building productivity tools & optimizers |
 | 🤝 **Open To** | System optimization, 3D modeling, mobile app & XeloDev collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
+| 📦 **COPR** | Publishing RPM packages on [Fedora COPR](https://copr.fedorainfracloud.org/coprs/axogm/) |
 
 </div>
 
@@ -210,19 +212,33 @@ const axo = {
 
 </div>
 
-> **High-quality 3D weapon models and game assets**
+> **High-quality low poly 3D weapon models and game assets — 70+ assets and counting**
 
 **AVAILABLE ASSETS:**
-*   **Sci-Fi Series**: [Alstra](https://axogm.itch.io/low-poly-alstra), [Laniakea](https://axogm.itch.io/low-poly-laniakea), [Katniss](https://axogm.itch.io/low-poly-katniss), [Syrina](https://axogm.itch.io/low-poly-syrina), [Trillian](https://axogm.itch.io/low-poly-trillian), [Frost](https://axogm.itch.io/low-poly-frost), [Optimis](https://axogm.itch.io/low-poly-optimis)
-*   **Modern Warfare**: [HK G11](https://axogm.itch.io/low-poly-heckler-koch-g11), [VSS Vintorez](https://axogm.itch.io/low-poly-vss-special-sniper-rifle), [AS Val](https://axogm.itch.io/low-poly-as-val), [P90](https://axogm.itch.io/low-poly-p90), [AK-12](https://axogm.itch.io/low-poly-ak-12), [AK-74](https://axogm.itch.io/low-poly-ak-74), [AK-47](https://axogm.itch.io/low-poly-ak-47), [AK-101](https://axogm.itch.io/low-poly-ak-101), [AK-103](https://axogm.itch.io/low-poly-ak-103), [AEK-971](https://axogm.itch.io/low-poly-aek-971)
-*   **Heavy Weapons**: [FGM-148 Javelin](https://axogm.itch.io/low-poly-fgm-148-javelin), [RPG-7](https://axogm.itch.io/low-poly-rpg-7), [M72 LAW](https://axogm.itch.io/low-poly-m72-law), [M1A1 Bazooka](https://axogm.itch.io/low-poly-m1a1-bazooka), [Panzerschreck](https://axogm.itch.io/low-poly-panzerschreck), [C4](https://axogm.itch.io/low-poly-c4)
-*   **Classic Rifles**: [1866 Yellowboy](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle), [1860 Henry](https://axogm.itch.io/1860-henry-rifle), [Model 1822 Musket](https://axogm.itch.io/low-poly-model-1822-musket), [Flintlock](https://axogm.itch.io/low-poly-flintlock)
-*   **Custom Variants**: [AK 9x39 CQBR](https://axogm.itch.io/ak-9x39-cqbr-custom), [ACR Bushmaster](https://axogm.itch.io/acr-bushmaster-custom), [AA-12](https://axogm.itch.io/aa-12-custom)
-*   **Specialty**: [Titanium AK-47](https://axogm.itch.io/low-poly-titanium-ak-47), [DLQ33](https://axogm.itch.io/low-poly-dlq33), [AK-5C](https://axogm.itch.io/low-poly-ak-5c), [KSG Bullpup](https://axogm.itch.io/low-poly-ksg-series-bullpup-shotgun)
-*   **Pistols & SMGs**: [Beretta 93R](https://axogm.itch.io/low-poly-beretta-93r), [Dan Wesson M1911](https://axogm.itch.io/low-poly-dan-wesson-m1911-acp-pistol), [Borchardt C-93](https://axogm.itch.io/low-poly-borchardt-c-93), [Daewoo K7](https://axogm.itch.io/low-poly-daewoo-telecom-k7), [Suomi KP/-31](https://axogm.itch.io/low-poly-suomi-kp-31)
-*   **Game Assets**: [3D Model Freddy FNAF](https://axogm.itch.io/3d-model-freddy-fnaf), [3D Model GOGG](https://axogm.itch.io/3d-model-gogg)
 
-[View all assets on Itch.io](https://axogm.itch.io/)
+*   **Sci-Fi Series**: [Alstra](https://axogm.itch.io/low-poly-alstra), [Laniakea](https://axogm.itch.io/low-poly-laniakea), [Katniss](https://axogm.itch.io/low-poly-katniss), [Syrina](https://axogm.itch.io/low-poly-syrina), [Trillian](https://axogm.itch.io/low-poly-trillian), [Frost](https://axogm.itch.io/low-poly-frost), [Optimis](https://axogm.itch.io/low-poly-optimis)
+
+*   **Modern Warfare**: [HK G11](https://axogm.itch.io/low-poly-heckler-koch-g11), [VSS Vintorez](https://axogm.itch.io/low-poly-vss-special-sniper-rifle), [AS Val](https://axogm.itch.io/low-poly-as-val), [P90](https://axogm.itch.io/low-poly-p90), [AK-12](https://axogm.itch.io/low-poly-ak-12), [AK-74](https://axogm.itch.io/low-poly-ak-74), [AK-47](https://axogm.itch.io/low-poly-ak-47), [AK-101](https://axogm.itch.io/low-poly-ak-101), [AK-103](https://axogm.itch.io/low-poly-ak-103), [AEK-971](https://axogm.itch.io/low-poly-aek-971), [FAMAE SAF](https://axogm.itch.io/low-poly-famae-saf), [ArmaLite AR-18](https://axogm.itch.io/low-poly-armalite-ar-18), [ArmaLite AR-10](https://axogm.itch.io/low-poly-armalite-ar-10)
+
+*   **Heavy Weapons**: [FGM-148 Javelin](https://axogm.itch.io/low-poly-fgm-148-javelin), [RPG-7](https://axogm.itch.io/low-poly-rpg-7), [M72 LAW](https://axogm.itch.io/low-poly-m72-law), [M1A1 Bazooka](https://axogm.itch.io/low-poly-m1a1-bazooka), [Panzerschreck](https://axogm.itch.io/low-poly-panzerschreck), [C4](https://axogm.itch.io/low-poly-c4), [EPK (Pyrkal) Machine Gun](https://axogm.itch.io/low-poly-epk-pyrkal-machine-gun), [American-180](https://axogm.itch.io/low-poly-american-180)
+
+*   **Sniper & Precision**: [DSR-Precision DSR-1](https://axogm.itch.io/low-poly-dsr-precision-dsr-1), [Dragunov SVU](https://axogm.itch.io/low-poly-dragunov-svu), [DLQ33](https://axogm.itch.io/low-poly-dlq33), [De Lisle Carbine](https://axogm.itch.io/low-poly-de-lisle-carbine), [A.I. AWSM](https://axogm.itch.io/a-i-awsm)
+
+*   **Shotguns**: [AA-12](https://axogm.itch.io/low-poly-aa-12), [Daewoo Precision Industries USAS-12](https://axogm.itch.io/low-poly-daewoo-precision-industries-usas-12), [KSG Bullpup](https://axogm.itch.io/low-poly-ksg-series-bullpup-shotgun)
+
+*   **Daewoo Series**: [K1](https://axogm.itch.io/low-poly-daewoo-precision-industries-k1), [K2](https://axogm.itch.io/low-poly-daewoo-precision-industries-k2), [K7](https://axogm.itch.io/low-poly-daewoo-telecom-k7), [USAS-12](https://axogm.itch.io/low-poly-daewoo-precision-industries-usas-12)
+
+*   **Classic Rifles**: [1866 Yellowboy](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle), [1860 Henry](https://axogm.itch.io/1860-henry-rifle), [Model 1822 Musket](https://axogm.itch.io/low-poly-model-1822-musket), [Flintlock](https://axogm.itch.io/low-poly-flintlock), [Deer Gun](https://axogm.itch.io/low-poly-deer-gun), [Desarrollos Industriales Casanave SC-2005](https://axogm.itch.io/low-poly-desarrollos-industriales-casanave-sc-2005)
+
+*   **Custom Variants** *(premium re-textured editions)*: [AK 9x39 CQBR (custom)](https://axogm.itch.io/ak-9x39-cqbr-custom), [AK 9x39 CQBR](https://axogm.itch.io/ak-9x39-cqbr), [ACR Bushmaster (custom)](https://axogm.itch.io/acr-bushmaster-custom), [ACR Bushmaster](https://axogm.itch.io/acr-bushmaster), [AA-12 (custom)](https://axogm.itch.io/aa-12-custom), [A.I. AWSM (custom)](https://axogm.itch.io/a-i-awsm-custom), [1866 Yellowboy (custom)](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle-custom), [1860 Henry (custom)](https://axogm.itch.io/1860-henry-rifle-custom)
+
+*   **Specialty**: [Titanium AK-47](https://axogm.itch.io/low-poly-titanium-ak-47), [AK-5C](https://axogm.itch.io/low-poly-ak-5c)
+
+*   **Pistols & SMGs**: [Beretta 93R](https://axogm.itch.io/low-poly-beretta-93r), [Dan Wesson M1911](https://axogm.itch.io/low-poly-dan-wesson-m1911-acp-pistol), [Borchardt C-93](https://axogm.itch.io/low-poly-borchardt-c-93), [Suomi KP/-31](https://axogm.itch.io/low-poly-suomi-kp-31)
+
+*   **Game Assets**: [3D Model Freddy FNAF](https://axogm.itch.io/3d-model-freddy-fnaf), [3D Model GOGG](https://axogm.itch.io/3d-model-gogg), [3D Model GOGG (custom)](https://axogm.itch.io/3d-model-gogg-custom)
+
+[View all assets on Itch.io →](https://axogm.itch.io/)
 
 ---
 
@@ -293,6 +309,36 @@ Performance enhancement for Blender 3D
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### 📦 Fedora COPR Packages
+RPM packages published for Fedora Linux
+
+**Platform:** Fedora COPR  
+**Status:** ✅ Active  
+**Link:** [copr.fedorainfracloud.org/coprs/axogm](https://copr.fedorainfracloud.org/coprs/axogm/)
+
+**Features:**
+- Custom RPM package builds
+- Fedora-compatible releases
+- Easy `dnf copr enable axogm/<pkg>` install
+
+</td>
+<td width="50%">
+
+#### 💾 XAMPP Optimization
+XAMPP performance enhancement
+
+**Tech:** Batch Script  
+**Status:** ✅ Complete (Oct 2025)
+
+**Features:**
+- Performance tuning for XAMPP stack
+- Memory & startup optimization
+
+</td>
+</tr>
 </table>
 
 ---
@@ -338,7 +384,7 @@ Interactive terminal-style portfolio
 <tr>
 <td width="33%">
 
-#### �️ AI & Tools
+#### 🗺️ AI & Tools
 Advanced utilities
 
 **Projects:**
@@ -496,20 +542,21 @@ Web design templates collection
 <tr>
 <td width="50%">
 
-#### 💾 XAMPP Optimization
-XAMPP performance enhancement
-
-**Tech:** Batch Script  
-**Status:** ✅ Complete (Oct 2025)
-
-</td>
-<td width="50%">
-
 #### 📱 Termux Rice
 Termux customization configurations
 
 **Tech:** Shell Script  
 **Status:** ✅ Complete (Oct 2025)
+
+</td>
+<td width="50%">
+
+#### 📦 Fedora COPR
+Personal RPM package repository
+
+**Platform:** Fedora Linux  
+**Status:** ✅ Active  
+**Link:** [axogm on COPR](https://copr.fedorainfracloud.org/coprs/axogm/)
 
 </td>
 </tr>
@@ -522,6 +569,7 @@ Termux customization configurations
 ### Q1 2026 (Jan - Mar)
 - [x] Cross-platform development research
 - [x] System optimization tools for major platforms
+- [x] Fedora COPR repository setup
 - [ ] Release Samsung A34 Optimizer v2.0
 - [ ] 5 open source contributions
 - [ ] Create 3 new 3D weapon asset packs
@@ -530,7 +578,7 @@ Termux customization configurations
 - [ ] Advanced macOS optimization scripts
 - [ ] Terminal Profile v2 enhancements
 - [ ] Mobile app development initiation
-- [ ] Expand Itch.io asset portfolio
+- [ ] Expand Itch.io asset portfolio (targeting 80+ assets)
 - [ ] Tech talk on system optimization
 
 ### Q3 2026 (Jul - Sep)
@@ -560,6 +608,8 @@ Termux customization configurations
 | 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
 | 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
 | ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
+| 🎨 **70+ 3D Assets** | ✅ Complete | Extensive low-poly weapon library on Itch.io |
+| 🐧 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux |
 
 </div>
 
@@ -620,6 +670,7 @@ mindmap
 | **System Optimization** | ⭐⭐⭐⭐⭐ | 3+ years | 15+ |
 | **Mobile Development** | ⭐⭐⭐⭐ | 2+ years | 8+ |
 | **DevOps & Scripting** | ⭐⭐⭐⭐ | 3+ years | 12+ |
+| **3D Asset Creation** | ⭐⭐⭐⭐ | 3+ years | 70+ |
 | **Game Development** | ⭐⭐⭐ | 2+ years | 5+ |
 | **UI/UX Design** | ⭐⭐⭐ | 2+ years | 10+ |
 
@@ -638,6 +689,7 @@ mindmap
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/creategm10)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCreateGM)
 [![XeloDev](https://img.shields.io/badge/XeloDev-Organization-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XeloDev)
+[![Fedora COPR](https://img.shields.io/badge/Fedora_COPR-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/axogm/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@proton.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://axogm.vercel.app/)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=for-the-badge&logo=gnu-bash)](https://thecreategm.github.io/)
@@ -656,6 +708,7 @@ Interests:
   - Developer tools & utilities
   - Educational content creation
   - Open source contributions
+  - Fedora/Linux packaging (COPR)
 ```
 
 ### ☕ Support My Work
@@ -698,6 +751,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: April 2026 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: May 2026 • Status: Actively Maintained ✅</sub>
 
 </div>
