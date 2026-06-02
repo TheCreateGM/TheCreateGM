@@ -197,7 +197,7 @@ const axo = {
 ⭐ Total Stars            150+ across repos
 🔱 Repository Forks       45+ community forks
 📝 Total Commits          1,200+ contributions
-📦 Total Repositories     60+ public repos
+📦 Total Repositories     67+ public repos
 ```
 
 ---
@@ -212,7 +212,7 @@ const axo = {
 
 </div>
 
-> **High-quality low poly 3D weapon models and game assets — 70+ assets and counting**
+> **High-quality low poly 3D weapon models and game assets — 126+ assets and counting**
 
 **AVAILABLE ASSETS:**
 
@@ -313,7 +313,7 @@ Performance enhancement for Blender 3D
 <td width="50%">
 
 #### 📦 Fedora COPR Packages
-RPM packages published for Fedora Linux
+5 RPM packages published for Fedora Linux
 
 **Platform:** Fedora COPR  
 **Status:** ✅ Active  
@@ -552,7 +552,7 @@ Termux customization configurations
 <td width="50%">
 
 #### 📦 Fedora COPR
-Personal RPM package repository
+5 RPM packages for Fedora Linux
 
 **Platform:** Fedora Linux  
 **Status:** ✅ Active  
@@ -578,7 +578,7 @@ Personal RPM package repository
 - [ ] Advanced macOS optimization scripts
 - [ ] Terminal Profile v2 enhancements
 - [ ] Mobile app development initiation
-- [ ] Expand Itch.io asset portfolio (targeting 80+ assets)
+- [x] Expand Itch.io asset portfolio (reached 126+ assets)
 - [ ] Tech talk on system optimization
 
 ### Q3 2026 (Jul - Sep)
@@ -601,15 +601,15 @@ Personal RPM package repository
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **64 Repositories** | ✅ Complete | Diverse range of projects |
+| 📦 **67+ Repositories** | ✅ Complete | Diverse range of projects |
 | ⭐ **GitHub Stars** | ✅ Complete | 150+ stars across repositories |
 | 🤝 **Open Source** | ✅ Complete | 15+ project contributions |
 | 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers |
 | 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
 | 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
 | ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
-| 🎨 **70+ 3D Assets** | ✅ Complete | Extensive low-poly weapon library on Itch.io |
-| 🐧 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux |
+| 🎨 **126+ 3D Assets** | ✅ Complete | Extensive low-poly weapon library on Itch.io |
+| 📦 **Fedora COPR** | ✅ Complete | 5 RPM packages published for Fedora Linux |
 
 </div>
 
@@ -670,7 +670,7 @@ mindmap
 | **System Optimization** | ⭐⭐⭐⭐⭐ | 3+ years | 15+ |
 | **Mobile Development** | ⭐⭐⭐⭐ | 2+ years | 8+ |
 | **DevOps & Scripting** | ⭐⭐⭐⭐ | 3+ years | 12+ |
-| **3D Asset Creation** | ⭐⭐⭐⭐ | 3+ years | 70+ |
+| **3D Asset Creation** | ⭐⭐⭐⭐ | 3+ years | 126+ |
 | **Game Development** | ⭐⭐⭐ | 2+ years | 5+ |
 | **UI/UX Design** | ⭐⭐⭐ | 2+ years | 10+ |
 
@@ -751,6 +751,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: May 2026 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: June 2026 • Status: Actively Maintained ✅</sub>
 
 </div>
