@@ -16,6 +16,9 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/creategm10)
 [![Fedora COPR](https://img.shields.io/badge/Fedora_COPR-Packages-294172?style=flat&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/axogm/)
+[![is-a.dev](https://img.shields.io/badge/is˙a˙dev-Site-FF6B6B?style=flat&logo=letsencrypt&logoColor=white)](https://axogm.is-a.dev)
+[![Gitea](https://img.shields.io/badge/Gitea-Profile-609926?style=flat&logo=gitea&logoColor=white)](https://gitea.com/TheCreateGM)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Profile-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/axogm)
 
 </div>
 
@@ -25,13 +28,13 @@
 
 > **Passionate Full-Stack Developer | System Optimizer | Tech Innovator**
 
-I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms, while also creating high-quality **3D assets** for game development. Co-founder of **[XeloDev](https://github.com/XeloDev)**, a small development team focused on system optimization, software engineering, and game development.
+I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms (including Fedora GPU/laptop optimization), while also creating high-quality **3D assets** for game development. Co-founder of **[XeloDev](https://github.com/XeloDev)**, a small development team focused on system optimization, software engineering, and game development.
 
 ```typescript
 const axo = {
     location: "🌍 Earth",
-    currentFocus: "⚡ System Optimization & 3D Modeling",
-    communities: ["GitHub", "Itch.io", "XeloDev", "Dev Community", "Fedora COPR"],
+    currentFocus: "⚡ System Optimization, GPU Tooling & 3D Modeling",
+    communities: ["GitHub", "Itch.io", "XeloDev", "Dev Community", "Fedora COPR", "Codeberg", "Gitea"],
     interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
     funFact: "I turn coffee into optimized code ☕ → 💻",
     motto: "Code is poetry, and every project tells a story"
@@ -46,12 +49,16 @@ const axo = {
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎯 **Current Focus** | System optimization tools & 3D Game Assets |
+| 🎯 **Current Focus** | System optimization tools (incl. Fedora dual-GPU tooling) & 3D Game Assets |
 | 🌱 **Learning** | Cross-platform development, AI integration & mobile development |
 | 🔥 **Status** | Actively building productivity tools & optimizers |
 | 🤝 **Open To** | System optimization, 3D modeling, mobile app & XeloDev collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
+| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 67 public repositories |
 | 📦 **COPR** | Publishing RPM packages on [Fedora COPR](https://copr.fedorainfracloud.org/coprs/axogm/) |
+| 🌐 **is-a.dev** | Personal developer site at [axogm.is-a.dev](https://axogm.is-a.dev) |
+| 🔗 **Codeberg** | Open-source projects on [codeberg.org/axogm](https://codeberg.org/axogm) |
+| 🔗 **Gitea** | Project repos on [gitea.com/TheCreateGM](https://gitea.com/TheCreateGM) |
 
 </div>
 
@@ -148,6 +155,8 @@ const axo = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gitea](https://img.shields.io/badge/gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -194,15 +203,25 @@ const axo = {
 🎯 Active Languages       12+ in rotation
 📁 Active Projects        10+ concurrent
 🤝 Collaborations         3 ongoing partnerships
-⭐ Total Stars            150+ across repos
-🔱 Repository Forks       45+ community forks
 📝 Total Commits          1,200+ contributions
-📦 Total Repositories     67+ public repos
+📦 Total Repositories     67 public repos (GitHub, verified)
+👥 GitHub Followers       16 · Following 4 (verified)
+🌐 Codeberg & Gitea       Active mirrors & standalone projects
 ```
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🖥️ MVGAL — Multi-Vendor GPU Aggregation Layer
+
+> **New:** Documentation repo now public on Gitea and Codeberg
+
+**Tech:** Cross-vendor GPU aggregation (NVIDIA, AMD, Intel, Moore Threads), heterogeneous computing, multi-GPU/multi-vendor tooling for Linux
+**Repos:** [mvgal-docs on Gitea](https://gitea.com/TheCreateGM/mvgal-docs) · [mvgal-docs on Codeberg](https://codeberg.org/axogm/mvgal-docs)
+**Topics:** `cross-vendor` `gpu-aggregation` `heterogeneous-computing` `multi-gpu` `multi-vendor`
+
+---
 
 ### 🎨 3D Assets & Game Dev
 
@@ -212,7 +231,7 @@ const axo = {
 
 </div>
 
-> **High-quality low poly 3D weapon models and game assets — 126+ assets and counting**
+> **High-quality low poly 3D weapon models and game assets — 60+ assets and counting**
 
 **AVAILABLE ASSETS:**
 
@@ -280,6 +299,32 @@ Performance optimization for Windows 11
 <tr>
 <td width="50%">
 
+#### 🎮 Dual GPU for Fedora 43 *(new)*
+Dual/multi-GPU tooling for Fedora Linux 43
+
+**Tech:** Shell Script  
+**Status:** 🔄 Tester build  
+**Repo:** [dgpuf44](https://github.com/TheCreateGM/dgpuf44)
+
+**Purpose:** Dual GPU configuration/optimization for Fedora Linux (early-access tester)
+
+</td>
+<td width="50%">
+
+#### 💻 Laptop Optimizer for Fedora 43 *(new)*
+Laptop-specific optimization for Fedora Linux 43
+
+**Tech:** Shell Script  
+**Status:** 🔄 Tester build  
+**Repo:** [loptf43](https://github.com/TheCreateGM/loptf43)
+
+**Purpose:** Laptop power/performance optimization for Fedora Linux (early-access tester)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 📱 Android Optimizers
 Device-specific optimization tools
 
@@ -313,7 +358,7 @@ Performance enhancement for Blender 3D
 <td width="50%">
 
 #### 📦 Fedora COPR Packages
-5 RPM packages published for Fedora Linux
+RPM packages published for Fedora Linux
 
 **Platform:** Fedora COPR  
 **Status:** ✅ Active  
@@ -323,6 +368,7 @@ Performance enhancement for Blender 3D
 - Custom RPM package builds
 - Fedora-compatible releases
 - Easy `dnf copr enable axogm/<pkg>` install
+- *(Note: COPR page is behind bot-protection for automated checks — package count last confirmed manually)*
 
 </td>
 <td width="50%">
@@ -463,10 +509,11 @@ VB.NET applications
 <td width="50%">
 
 #### 🐍 Tkinter Studio
-Visual Studio-style GUI for Tkinter
+Visual Studio-style GUI for Tkinter, plus a smaller Tkinter/SQLite mini-project
 
-**Tech:** Python, Tkinter  
+**Tech:** Python, Tkinter, SQLite  
 **Status:** 🔄 Work in Progress (May 2025)
+**Repo:** [example-mini-project-python](https://github.com/TheCreateGM/example-mini-project-python)
 
 </td>
 </tr>
@@ -518,8 +565,7 @@ Robot configuration project
 #### 🎨 Web1 Template
 Web design templates collection
 
-**Tech:** HTML, CSS  
-**Status:** ✅ Complete (May 2025)
+**Tech:** HTML, CSS   **Status:** ✅ Complete (May 2025)
 
 </td>
 <td width="50%">
@@ -527,8 +573,27 @@ Web design templates collection
 #### 🏚️ Old Portfolio
 2022 portfolio archive
 
-**Tech:** HTML, CSS, JavaScript  
-**Status:** 📦 Archived (Aug 2025)
+**Tech:** HTML, CSS, JavaScript   **Status:** 📦 Archived (Aug 2025)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 📸 Photography Page
+Photography showcase page
+
+**Tech:** HTML, CSS  
+**Repo:** [photography-page](https://github.com/TheCreateGM/photography-page)
+
+</td>
+<td width="50%">
+
+#### ⚠️ Error Page
+Reusable web error page template
+
+**Tech:** HTML  
+**Repo:** [error-page](https://github.com/TheCreateGM/error-page)
 
 </td>
 </tr>
@@ -552,11 +617,75 @@ Termux customization configurations
 <td width="50%">
 
 #### 📦 Fedora COPR
-5 RPM packages for Fedora Linux
+RPM packages for Fedora Linux
 
 **Platform:** Fedora Linux  
 **Status:** ✅ Active  
 **Link:** [axogm on COPR](https://copr.fedorainfracloud.org/coprs/axogm/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Cross-Platform Code Hosting
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔗 Codeberg
+Open-source project mirror & standalone repos
+
+**Profile:** [codeberg.org/axogm](https://codeberg.org/axogm)  
+**Status:** ✅ Active — joined May 2026
+**Repos (1):** [mvgal-docs](https://codeberg.org/axogm/mvgal-docs) — MVGAL documentation (`cross-vendor`, `gpu-aggregation`, `heterogeneous-computing`, `multi-gpu`, `multi-vendor`)
+
+**Features:**
+- Free & open-source-first hosting
+- Project mirroring from GitHub
+- Privacy-respecting development
+
+</td>
+<td width="50%">
+
+#### 🔗 Gitea
+Lightweight self-hosted-style repositories
+
+**Profile:** [gitea.com/TheCreateGM](https://gitea.com/TheCreateGM)  
+**Status:** ✅ Active — joined May 2025
+**Repos (2):** [mvgal-docs](https://gitea.com/TheCreateGM/mvgal-docs) (MVGAL documentation), [web2-temp](https://gitea.com/TheCreateGM/web2-temp) (HTML)
+
+**Features:**
+- Fast, minimal platform
+- Cross-project management
+- Alternative to centralized forges
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌐 axogm.is-a.dev
+Personal developer domain & landing page
+
+**Site:** [axogm.is-a.dev](https://axogm.is-a.dev)  
+**Status:** ✅ Live
+
+**Purpose:**
+- Central developer identity
+- Portfolio & project showcase
+- Professional online presence
+
+</td>
+<td width="50%">
+
+#### 🖥️ Terminal Portfolio
+Interactive terminal-style portfolio (GitHub Pages)
+
+**Site:** [thecreategm.github.io](https://thecreategm.github.io/)  
+**Status:** ✅ Live (JS-driven terminal UI, confirmed reachable)
 
 </td>
 </tr>
@@ -575,10 +704,12 @@ Termux customization configurations
 - [ ] Create 3 new 3D weapon asset packs
 
 ### Q2 2026 (Apr - Jun)
+- [x] Fedora dual-GPU & laptop optimizer testers (dgpuf44, loptf43)
+- [x] MVGAL documentation published (Gitea + Codeberg)
 - [ ] Advanced macOS optimization scripts
 - [ ] Terminal Profile v2 enhancements
 - [ ] Mobile app development initiation
-- [x] Expand Itch.io asset portfolio (reached 126+ assets)
+- [x] Maintain and grow Itch.io asset portfolio (60+ assets live)
 - [ ] Tech talk on system optimization
 
 ### Q3 2026 (Jul - Sep)
@@ -586,6 +717,7 @@ Termux customization configurations
 - [ ] AI features integration for optimization tools
 - [ ] Complete "Classical Weapons" collection
 - [ ] Mentor 2 junior developers
+- [ ] Expand MVGAL from docs into public implementation repos
 
 ### Q4 2026 (Oct - Dec)
 - [ ] Performance optimization across all projects
@@ -601,15 +733,18 @@ Termux customization configurations
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **67+ Repositories** | ✅ Complete | Diverse range of projects |
-| ⭐ **GitHub Stars** | ✅ Complete | 150+ stars across repositories |
-| 🤝 **Open Source** | ✅ Complete | 15+ project contributions |
-| 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers |
+| 📦 **67 Repositories** | ✅ Verified | Diverse range of projects on GitHub |
+| 👥 **16 GitHub Followers** | ✅ Verified | Following 4 |
+| 🤝 **Open Source** | ✅ Complete | Contributions across GitHub, Gitea & Codeberg |
+| 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers, incl. new Fedora GPU/laptop testers |
 | 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
 | 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
 | ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
-| 🎨 **126+ 3D Assets** | ✅ Complete | Extensive low-poly weapon library on Itch.io |
-| 📦 **Fedora COPR** | ✅ Complete | 5 RPM packages published for Fedora Linux |
+| 🎨 **60+ 3D Assets** | ✅ Verified | Low-poly weapon/model library live on Itch.io |
+| 📦 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux |
+| 🌐 **axogm.is-a.dev** | ✅ Complete | Personal developer domain & landing page |
+| 🔗 **Codeberg** | ✅ Verified | 1 public repo: [mvgal-docs](https://codeberg.org/axogm/mvgal-docs) |
+| 🔗 **Gitea** | ✅ Verified | 2 public repos: mvgal-docs, web2-temp |
 
 </div>
 
@@ -648,6 +783,7 @@ mindmap
       Resource Management
       Platform-Specific
       Automation
+      Multi-GPU / Fedora Tooling
     AI & Integration
       Voice Processing
       Semantic Search
@@ -667,10 +803,10 @@ mindmap
 | Skill Category | Level | Experience | Projects |
 |---------------|-------|------------|----------|
 | **Full-Stack Development** | ⭐⭐⭐⭐⭐ | 4+ years | 20+ |
-| **System Optimization** | ⭐⭐⭐⭐⭐ | 3+ years | 15+ |
+| **System Optimization** | ⭐⭐⭐⭐⭐ | 3+ years | 17+ |
 | **Mobile Development** | ⭐⭐⭐⭐ | 2+ years | 8+ |
 | **DevOps & Scripting** | ⭐⭐⭐⭐ | 3+ years | 12+ |
-| **3D Asset Creation** | ⭐⭐⭐⭐ | 3+ years | 126+ |
+| **3D Asset Creation** | ⭐⭐⭐⭐ | 3+ years | 60+ |
 | **Game Development** | ⭐⭐⭐ | 2+ years | 5+ |
 | **UI/UX Design** | ⭐⭐⭐ | 2+ years | 10+ |
 
@@ -688,10 +824,13 @@ mindmap
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/creategm10)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCreateGM)
+[![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.com/TheCreateGM)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/axogm)
 [![XeloDev](https://img.shields.io/badge/XeloDev-Organization-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XeloDev)
 [![Fedora COPR](https://img.shields.io/badge/Fedora_COPR-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/axogm/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@proton.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://axogm.vercel.app/)
+[![is-a.dev](https://img.shields.io/badge/is˙a˙dev-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://axogm.is-a.dev)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=for-the-badge&logo=gnu-bash)](https://thecreategm.github.io/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://axogm.itch.io/)
 
@@ -701,6 +840,7 @@ mindmap
 Interests:
   - Note-taking & productivity applications
   - System optimization & performance tools
+  - Multi-GPU / heterogeneous computing tooling (MVGAL)
   - AI integration & voice processing projects
   - Mobile app development (Ionic, Flutter, Android)
   - Cross-platform applications
@@ -709,6 +849,7 @@ Interests:
   - Educational content creation
   - Open source contributions
   - Fedora/Linux packaging (COPR)
+  - Gitea/Codeberg open-source hosting
 ```
 
 ### ☕ Support My Work
@@ -751,6 +892,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: June 2026 • Status: Actively Maintained ✅</sub>
+<sub>Last Updated: July 2026 • Status: Actively Maintained ✅ • Verified against GitHub, Itch.io, Gitea, and Codeberg</sub>
 
 </div>
