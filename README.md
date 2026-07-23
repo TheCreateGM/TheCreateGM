@@ -884,7 +884,7 @@ Interests:
   
 ### 🌟 Thanks for visiting my profile!
 
-![](https://komarev.com/ghpvc/?username=TheCreateGM&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=TheCreateGM&style=for-the-badge&color=blue&abbreviated=true)
 
 ### 💡 *"Code is poetry, and every project tells a story"*
 
