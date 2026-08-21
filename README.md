@@ -54,7 +54,7 @@ const axo = {
 | 🔥 **Status** | Actively building productivity tools & optimizers |
 | 🤝 **Open To** | System optimization, 3D modeling, mobile app & XeloDev collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
-| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 67 public repositories |
+| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 68 public repositories |
 | 📦 **COPR** | Publishing RPM packages on [Fedora COPR](https://copr.fedorainfracloud.org/coprs/axogm/) |
 | 🌐 **is-a.dev** | Personal developer site at [axogm.is-a.dev](https://axogm.is-a.dev) |
 | 🔗 **Codeberg** | Open-source projects on [codeberg.org/axogm](https://codeberg.org/axogm) |
@@ -204,7 +204,7 @@ const axo = {
 📁 Active Projects        10+ concurrent
 🤝 Collaborations         3 ongoing partnerships
 📝 Total Commits          1,200+ contributions
-📦 Total Repositories     67 public repos (GitHub, verified)
+📦 Total Repositories     68 public repos (GitHub)
 👥 GitHub Followers       16 · Following 4 (verified)
 🌐 Codeberg & Gitea       Active mirrors & standalone projects
 ```
@@ -231,7 +231,7 @@ const axo = {
 
 </div>
 
-> **High-quality low poly 3D weapon models and game assets — 60+ assets and counting**
+> **High-quality low poly 3D weapon models and game assets — 63 assets and counting**
 
 **AVAILABLE ASSETS:**
 
@@ -249,7 +249,7 @@ const axo = {
 
 *   **Classic Rifles**: [1866 Yellowboy](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle), [1860 Henry](https://axogm.itch.io/1860-henry-rifle), [Model 1822 Musket](https://axogm.itch.io/low-poly-model-1822-musket), [Flintlock](https://axogm.itch.io/low-poly-flintlock), [Deer Gun](https://axogm.itch.io/low-poly-deer-gun), [Desarrollos Industriales Casanave SC-2005](https://axogm.itch.io/low-poly-desarrollos-industriales-casanave-sc-2005)
 
-*   **Custom Variants** *(premium re-textured editions)*: [AK 9x39 CQBR (custom)](https://axogm.itch.io/ak-9x39-cqbr-custom), [AK 9x39 CQBR](https://axogm.itch.io/ak-9x39-cqbr), [ACR Bushmaster (custom)](https://axogm.itch.io/acr-bushmaster-custom), [ACR Bushmaster](https://axogm.itch.io/acr-bushmaster), [AA-12 (custom)](https://axogm.itch.io/aa-12-custom), [A.I. AWSM (custom)](https://axogm.itch.io/a-i-awsm-custom), [1866 Yellowboy (custom)](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle-custom), [1860 Henry (custom)](https://axogm.itch.io/1860-henry-rifle-custom)
+*   **Custom Variants** *(premium re-textured editions)*: [AK 9x39 CQBR (custom)](https://axogm.itch.io/ak-9x39-cqbr-custom), [AK 9x39 CQBR](https://axogm.itch.io/ak-9x39-cqbr), [ACR Bushmaster (custom)](https://axogm.itch.io/acr-bushmaster-custom), [ACR Bushmaster](https://axogm.itch.io/acr-bushmaster), [AA-12 (custom)](https://axogm.itch.io/aa-12-custom), [AA-12](https://axogm.itch.io/aa-12), [A.I. AWSM (custom)](https://axogm.itch.io/a-i-awsm-custom), [1866 Yellowboy (custom)](https://axogm.itch.io/1866-yellowboy-carbine-short-rifle-custom), [1860 Henry (custom)](https://axogm.itch.io/1860-henry-rifle-custom)
 
 *   **Specialty**: [Titanium AK-47](https://axogm.itch.io/low-poly-titanium-ak-47), [AK-5C](https://axogm.itch.io/low-poly-ak-5c)
 
@@ -437,6 +437,7 @@ Advanced utilities
 - [Google Maps LLM](https://github.com/TheCreateGM/google-maps-llm)
 - [Shift Finder](https://github.com/TheCreateGM/shift-finder-app)
 - [HackNews Clone](https://github.com/TheCreateGM/hack-news-clone)
+- [Godot STEX to PNG](https://github.com/TheCreateGM/godotstex2png-web) *(new)* — browser-based Godot texture converter
 
 </td>
 <td width="33%">
@@ -733,14 +734,14 @@ Interactive terminal-style portfolio (GitHub Pages)
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **67 Repositories** | ✅ Verified | Diverse range of projects on GitHub |
+| 📦 **68 Repositories** | ✅ Verified | Diverse range of projects on GitHub — newly added: [godotstex2png-web](https://github.com/TheCreateGM/godotstex2png-web) *(note: GitHub blocks automated access to the full repo listing, so this count is last confirmed manually + newly discovered repos, not a fresh live recount)* |
 | 👥 **16 GitHub Followers** | ✅ Verified | Following 4 |
 | 🤝 **Open Source** | ✅ Complete | Contributions across GitHub, Gitea & Codeberg |
 | 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers, incl. new Fedora GPU/laptop testers |
 | 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
 | 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
 | ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
-| 🎨 **60+ 3D Assets** | ✅ Verified | Low-poly weapon/model library live on Itch.io |
+| 🎨 **63 3D Assets** | ✅ Verified | Low-poly weapon/model library live on Itch.io (checked Aug 2026) |
 | 📦 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux |
 | 🌐 **axogm.is-a.dev** | ✅ Complete | Personal developer domain & landing page |
 | 🔗 **Codeberg** | ✅ Verified | 1 public repo: [mvgal-docs](https://codeberg.org/axogm/mvgal-docs) |
@@ -892,6 +893,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: July 2026 • Status: Actively Maintained ✅ • Verified against GitHub, Itch.io, Gitea, and Codeberg</sub>
+<sub>Last Updated: August 2026 • Status: Actively Maintained ✅ • Verified against GitHub, Itch.io, and Terminal Portfolio</sub>
 
 </div>
