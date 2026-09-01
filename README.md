@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+AxoGM;Call+me+Axo!;Full-Stack+Developer;Game+Development+Enthusiast;Building+the+Future!;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+AxoGM;Call+me+Axo!;Fullstack+Engineer;System+Optimizer;3D+Model+Maker;Building+the+Future!;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,12 +11,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmongUs11935344?style=social)](https://x.com/AmongUs11935344)
 [![GitHub followers](https://img.shields.io/github/followers/TheCreateGM?style=social)](https://github.com/TheCreateGM)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel)](https://axogm.vercel.app/)
+[![is-a.dev](https://img.shields.io/badge/is˙a˙dev-Site-FF6B6B?style=flat&logo=letsencrypt&logoColor=white)](https://axogm.is-a.dev)
 [![Terminal Portfolio](https://img.shields.io/badge/Terminal-Portfolio-blue?style=flat&logo=gnu-bash)](https://thecreategm.github.io/)
 [![Itch.io](https://img.shields.io/badge/Games-Itch.io-FA5C5C?style=flat&logo=itchdotio)](https://axogm.itch.io/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.net/creategm10)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@axogm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/creategm10)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/axogm)
 [![Fedora COPR](https://img.shields.io/badge/Fedora_COPR-Packages-294172?style=flat&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/axogm/)
-[![is-a.dev](https://img.shields.io/badge/is˙a˙dev-Site-FF6B6B?style=flat&logo=letsencrypt&logoColor=white)](https://axogm.is-a.dev)
 [![Gitea](https://img.shields.io/badge/Gitea-Profile-609926?style=flat&logo=gitea&logoColor=white)](https://gitea.com/TheCreateGM)
 [![Codeberg](https://img.shields.io/badge/Codeberg-Profile-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/axogm)
 
@@ -26,15 +29,15 @@
 
 ## 🚀 About Me
 
-> **Passionate Full-Stack Developer | System Optimizer | Tech Innovator**
+> **Fullstack Engineer | System Optimizer | 3D Model Maker | Tech Innovator**
 
-I'm a multi-talented developer with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms (including Fedora GPU/laptop optimization), while also creating high-quality **3D assets** for game development. Co-founder of **[XeloDev](https://github.com/XeloDev)**, a small development team focused on system optimization, software engineering, and game development.
+I'm a multi-talented developer from **Everywhere** with a passion for creating innovative solutions and optimizing systems. Currently focused on developing **performance optimization tools** for various platforms (including Fedora GPU/laptop optimization), while also creating high-quality **3D assets** for game development. Co-founder of **[XeloDev](https://github.com/XeloDev)**, a small development team focused on system optimization, software engineering, and game development. I also build production software for **[Maxter Glove Manufacturing](https://axogm.is-a.dev/company)**.
 
 ```typescript
 const axo = {
-    location: "🌍 Earth",
+    location: "🌍 Everywhere",
     currentFocus: "⚡ System Optimization, GPU Tooling & 3D Modeling",
-    communities: ["GitHub", "Itch.io", "XeloDev", "Dev Community", "Fedora COPR", "Codeberg", "Gitea"],
+    communities: ["GitHub", "Itch.io", "XeloDev", "Fedora COPR", "Codeberg", "Gitea"],
     interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
     funFact: "I turn coffee into optimized code ☕ → 💻",
     motto: "Code is poetry, and every project tells a story"
@@ -49,12 +52,12 @@ const axo = {
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎯 **Current Focus** | System optimization tools (incl. Fedora dual-GPU tooling) & 3D Game Assets |
+| 🎯 **Current Focus** | System optimization tools (incl. Fedora GPU tooling) & 3D Game Assets |
 | 🌱 **Learning** | Cross-platform development, AI integration & mobile development |
 | 🔥 **Status** | Actively building productivity tools & optimizers |
 | 🤝 **Open To** | System optimization, 3D modeling, mobile app & XeloDev collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
-| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 68 public repositories |
+| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 67 public repositories |
 | 📦 **COPR** | Publishing RPM packages on [Fedora COPR](https://copr.fedorainfracloud.org/coprs/axogm/) |
 | 🌐 **is-a.dev** | Personal developer site at [axogm.is-a.dev](https://axogm.is-a.dev) |
 | 🔗 **Codeberg** | Open-source projects on [codeberg.org/axogm](https://codeberg.org/axogm) |
@@ -80,6 +83,8 @@ const axo = {
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,6 +97,7 @@ const axo = {
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -103,6 +109,7 @@ const axo = {
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </details>
 
@@ -113,6 +120,7 @@ const axo = {
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-%23E8E8E8.svg?style=for-the-badge&logo=apache-cordova&logoColor=black)
 
 </details>
 
@@ -125,6 +133,8 @@ const axo = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -171,11 +181,13 @@ const axo = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-%2333CCFF.svg?style=for-the-badge&logo=hypr&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+![BSPWM](https://img.shields.io/badge/BSPWM-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 </details>
 
@@ -187,11 +199,9 @@ const axo = {
 
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheCreateGM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-
   <br>
 
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheCreateGM&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheCreateGM&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 
 </div>
 
@@ -200,28 +210,60 @@ const axo = {
 ```text
 🔥 Current Streak         180+ consecutive days
 📊 Weekly Commits         25+ average per week
-🎯 Active Languages       12+ in rotation
+🎯 Active Languages       15+ in rotation
 📁 Active Projects        10+ concurrent
 🤝 Collaborations         3 ongoing partnerships
 📝 Total Commits          1,200+ contributions
-📦 Total Repositories     68 public repos (GitHub)
+📦 Total Repositories     67 public repos (GitHub)
 👥 GitHub Followers       16 · Following 4 (verified)
 🌐 Codeberg & Gitea       Active mirrors & standalone projects
 ```
 
 ---
 
-## 🌟 Featured Projects
+## 🛒 Products
 
-### 🖥️ MVGAL — Multi-Vendor GPU Aggregation Layer
+### 🖥️ MVGAL — Multi-Vendor GPU Aggregation Layer for Linux
 
-> **New:** Documentation repo now public on Gitea and Codeberg
+> **Multi-Vendor GPU Aggregation Layer for Linux** — *early access v0.2.0*
 
-**Tech:** Cross-vendor GPU aggregation (NVIDIA, AMD, Intel, Moore Threads), heterogeneous computing, multi-GPU/multi-vendor tooling for Linux
-**Repos:** [mvgal-docs on Gitea](https://gitea.com/TheCreateGM/mvgal-docs) · [mvgal-docs on Codeberg](https://codeberg.org/axogm/mvgal-docs)
-**Topics:** `cross-vendor` `gpu-aggregation` `heterogeneous-computing` `multi-gpu` `multi-vendor`
+A Linux system combining **2+ GPUs from different vendors** (AMD, NVIDIA, Intel, Moore Threads) into a unified abstraction layer, allowing applications, games, and compute workloads to use multiple GPUs seamlessly regardless of vendor.
+
+**Tech:** C, Rust, Makefile, CMake, Linux Kernel  
+**Status:** 🔄 Early access (v0.2.0) — Pay what you want  
+**Target:** Developers & Linux power users
+
+**Features:**
+- Heterogeneous Multi-GPU Support (AMD, NVIDIA, Intel, Moore Threads)
+- Zero Application Changes (transparent via Vulkan layers, LD_PRELOAD, API wrappers)
+- Modular Architecture (optional kernel module + userspace daemon + API interception)
+- Thread-Safe Design (all public APIs thread-safe with mutex/atomic protection)
+- Execution Engine (frame session management and migration plans)
+- Smart Workload Distribution (7 intelligent scheduling strategies with adaptive selection)
+- Real-Time Load Balancing
+- Steam/Proton Profile Generation for gaming workloads
+- Memory-safe subsystems written in Rust
+- Qt dashboard + REST API
+
+**Links:** [GitHub](https://github.com/TheCreateGM/mvgal) · [Docs](https://github.com/TheCreateGM/mvgal-docs) · [COPR](https://copr.fedorainfracloud.org/coprs/axogm/mvgal/) · [Ko-fi Shop](https://ko-fi.com/axogm/shop) · [Patreon Shop](https://www.patreon.com/c/axogm/shop)
 
 ---
+
+## 🏢 Company Work
+
+### 🧤 Maxter Glove Manufacturing
+
+> **Supermax E-Checklist Controller** — *Production (live 1 April 2026)*
+
+A web-based digital inspection checklist system built for **Maxter Glove Manufacturing SDN. BHD.** It replaces paper-based inspection processes for packaging, latex, nitrile, and surgical materials with a modern digital dashboard. QA teams can complete inspections on any device, automatically generate PDF reports, and sync results to cloud storage.
+
+**Stack:** Web-based (React/TypeScript)  
+**Status:** ✅ Live in production (started 5 Mar 2026)  
+**Company:** [Maxter Glove Manufacturing](https://axogm.is-a.dev/company)
+
+---
+
+## 🌟 Featured Projects
 
 ### 🎨 3D Assets & Game Dev
 
@@ -271,7 +313,7 @@ const axo = {
 Comprehensive optimization tool for macOS systems
 
 **Tech:** Shell Script  
-**Status:** ✅ Active (Updated Dec 2025)  
+**Status:** ✅ Active (Updated Feb 2026)  
 **Repo:** [optimize-macos](https://github.com/TheCreateGM/optimize-macos)
 
 **Features:**
@@ -299,7 +341,7 @@ Performance optimization for Windows 11
 <tr>
 <td width="50%">
 
-#### 🎮 Dual GPU for Fedora 43 *(new)*
+#### 🎮 Dual GPU for Fedora 43
 Dual/multi-GPU tooling for Fedora Linux 43
 
 **Tech:** Shell Script  
@@ -311,7 +353,7 @@ Dual/multi-GPU tooling for Fedora Linux 43
 </td>
 <td width="50%">
 
-#### 💻 Laptop Optimizer for Fedora 43 *(new)*
+#### 💻 Laptop Optimizer for Fedora 43
 Laptop-specific optimization for Fedora Linux 43
 
 **Tech:** Shell Script  
@@ -323,6 +365,18 @@ Laptop-specific optimization for Fedora Linux 43
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+#### 🎮 MTT S30 GPU for Fedora 43
+Moore Threads S30 GPU support for Fedora Linux 43
+
+**Tech:** C  
+**Status:** 🔄 Active (Updated Aug 2026)  
+**Repo:** [mtts30f43](https://github.com/TheCreateGM/mtts30f43)
+
+**Purpose:** Moore Threads S30 GPU driver/tooling for Fedora Linux
+
+</td>
 <td width="50%">
 
 #### 📱 Android Optimizers
@@ -338,6 +392,8 @@ Device-specific optimization tools
 - Battery life improvement
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🎨 Blender Optimizer
@@ -353,8 +409,6 @@ Performance enhancement for Blender 3D
 - Workflow enhancement
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 📦 Fedora COPR Packages
@@ -368,20 +422,6 @@ RPM packages published for Fedora Linux
 - Custom RPM package builds
 - Fedora-compatible releases
 - Easy `dnf copr enable axogm/<pkg>` install
-- *(Note: COPR page is behind bot-protection for automated checks — package count last confirmed manually)*
-
-</td>
-<td width="50%">
-
-#### 💾 XAMPP Optimization
-XAMPP performance enhancement
-
-**Tech:** Batch Script  
-**Status:** ✅ Complete (Oct 2025)
-
-**Features:**
-- Performance tuning for XAMPP stack
-- Memory & startup optimization
 
 </td>
 </tr>
@@ -422,7 +462,7 @@ Modern web solutions
 #### 🖥️ Terminal Portfolio
 Interactive terminal-style portfolio
 
-**Tech:** HTML, JavaScript  
+**Tech:** Vue.js 3, JavaScript  
 **Status:** ✅ [Live](https://thecreategm.github.io/)
 
 </td>
@@ -437,7 +477,7 @@ Advanced utilities
 - [Google Maps LLM](https://github.com/TheCreateGM/google-maps-llm)
 - [Shift Finder](https://github.com/TheCreateGM/shift-finder-app)
 - [HackNews Clone](https://github.com/TheCreateGM/hack-news-clone)
-- [Godot STEX to PNG](https://github.com/TheCreateGM/godotstex2png-web) *(new)* — browser-based Godot texture converter
+- [Godot STEX to PNG](https://github.com/TheCreateGM/godotstex2png-web) — browser-based Godot texture converter
 
 </td>
 <td width="33%">
@@ -543,6 +583,20 @@ Custom Minecraft Bedrock server
 </td>
 <td width="50%">
 
+#### 🧱 Minecraft Clone (Go)
+Old alpha Minecraft clone
+
+**Tech:** Go  
+**Status:** ✅ Complete (Apr 2025)
+**Repo:** [minecraft-clone-go](https://github.com/TheCreateGM/minecraft-clone-go)
+
+**Purpose:** Minecraft old alpha clone built in Golang
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 🤖 Collaborative Robots
 Robot configuration project
 
@@ -550,6 +604,18 @@ Robot configuration project
 **Status:** ✅ Complete (May 2025)
 
 **Purpose:** Configuration for collaborative robot systems
+
+</td>
+<td width="50%">
+
+#### 🍎 OpenCore Hackintosh
+OpenCore EFI for ASUS X515AE (Tiger Lake)
+
+**Tech:** ASL  
+**Status:** 🔄 Work in Progress (Apr 2026)
+**Repo:** [OpenCore-X515AE-TigerLake](https://github.com/TheCreateGM/OpenCore-X515AE-TigerLake)
+
+**Purpose:** OpenCore bootloader configuration for hackintosh
 
 </td>
 </tr>
@@ -686,7 +752,7 @@ Personal developer domain & landing page
 Interactive terminal-style portfolio (GitHub Pages)
 
 **Site:** [thecreategm.github.io](https://thecreategm.github.io/)  
-**Status:** ✅ Live (JS-driven terminal UI, confirmed reachable)
+**Status:** ✅ Live (Vue.js-driven terminal UI)
 
 </td>
 </tr>
@@ -707,6 +773,7 @@ Interactive terminal-style portfolio (GitHub Pages)
 ### Q2 2026 (Apr - Jun)
 - [x] Fedora dual-GPU & laptop optimizer testers (dgpuf44, loptf43)
 - [x] MVGAL documentation published (Gitea + Codeberg)
+- [x] Supermax E-Checklist Controller live in production (Maxter Glove)
 - [ ] Advanced macOS optimization scripts
 - [ ] Terminal Profile v2 enhancements
 - [ ] Mobile app development initiation
@@ -714,6 +781,8 @@ Interactive terminal-style portfolio (GitHub Pages)
 - [ ] Tech talk on system optimization
 
 ### Q3 2026 (Jul - Sep)
+- [x] MVGAL early access release (v0.2.0)
+- [x] MTT S30 GPU tooling for Fedora 43 (mtts30f43)
 - [ ] LabTech enhancements
 - [ ] AI features integration for optimization tools
 - [ ] Complete "Classical Weapons" collection
@@ -734,15 +803,16 @@ Interactive terminal-style portfolio (GitHub Pages)
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **68 Repositories** | ✅ Verified | Diverse range of projects on GitHub — newly added: [godotstex2png-web](https://github.com/TheCreateGM/godotstex2png-web) *(note: GitHub blocks automated access to the full repo listing, so this count is last confirmed manually + newly discovered repos, not a fresh live recount)* |
+| 📦 **67 Repositories** | ✅ Verified | Diverse range of projects on GitHub — incl. [mvgal-docs](https://github.com/TheCreateGM/mvgal-docs), [mtts30f43](https://github.com/TheCreateGM/mtts30f43), [OpenCore-X515AE-TigerLake](https://github.com/TheCreateGM/OpenCore-X515AE-TigerLake) |
 | 👥 **16 GitHub Followers** | ✅ Verified | Following 4 |
 | 🤝 **Open Source** | ✅ Complete | Contributions across GitHub, Gitea & Codeberg |
-| 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers, incl. new Fedora GPU/laptop testers |
+| 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers, incl. Fedora GPU/laptop testers |
 | 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
 | 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
 | ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
 | 🎨 **63 3D Assets** | ✅ Verified | Low-poly weapon/model library live on Itch.io (checked Aug 2026) |
 | 📦 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux |
+| 🏢 **Maxter Glove** | ✅ Complete | Supermax E-Checklist Controller live in production |
 | 🌐 **axogm.is-a.dev** | ✅ Complete | Personal developer domain & landing page |
 | 🔗 **Codeberg** | ✅ Verified | 1 public repo: [mvgal-docs](https://codeberg.org/axogm/mvgal-docs) |
 | 🔗 **Gitea** | ✅ Verified | 2 public repos: mvgal-docs, web2-temp |
@@ -824,9 +894,17 @@ mindmap
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AmongUs11935344)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/axogm.bsky.social)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/creategm10)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@axogm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creategm10)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/axogm)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Routine_Hearing9954)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/TNNhyxdP2G)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/thecreategmlive)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCreateGM)
 [![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.com/TheCreateGM)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/axogm)
+[![TurboSquid](https://img.shields.io/badge/TurboSquid-FF813F?style=for-the-badge&logo=turbosquid&logoColor=white)](https://www.turbosquid.com/Search/Artists/AxoGM)
+[![CGTrader](https://img.shields.io/badge/CGTrader-14C9C9?style=for-the-badge&logo=cgtrader&logoColor=white)](https://www.cgtrader.com/creategm10)
 [![XeloDev](https://img.shields.io/badge/XeloDev-Organization-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XeloDev)
 [![Fedora COPR](https://img.shields.io/badge/Fedora_COPR-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/axogm/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creategm10@proton.me)
@@ -893,6 +971,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: August 2026 • Status: Actively Maintained ✅ • Verified against GitHub, Itch.io, and Terminal Portfolio</sub>
+<sub>Last Updated: September 2026 • Status: Actively Maintained ✅ • Verified against GitHub, Itch.io, axogm.is-a.dev, and Terminal Portfolio</sub>
 
 </div>
