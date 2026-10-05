@@ -37,6 +37,7 @@ I'm a multi-talented developer from **Everywhere** with a passion for creating i
 const axo = {
     location: "🌍 Everywhere",
     currentFocus: "⚡ System Optimization, GPU Tooling & 3D Modeling",
+    activeNow: ["Fedora 44 on MS-R1 ARM", "MVGAL docs & early access", "63 Itch.io 3D assets"],
     communities: ["GitHub", "Itch.io", "XeloDev", "Fedora COPR", "Codeberg", "Gitea"],
     interests: ["AI Integration", "System Optimization", "Cross-Platform Apps", "Mobile Development"],
     funFact: "I turn coffee into optimized code ☕ → 💻",
@@ -52,12 +53,13 @@ const axo = {
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎯 **Current Focus** | System optimization tools (incl. Fedora GPU tooling) & 3D Game Assets |
+| 🎯 **Current Focus** | System optimization tools (Fedora 44 / MS-R1 ARM, GPU tooling) & 3D Game Assets |
 | 🌱 **Learning** | Cross-platform development, AI integration & mobile development |
 | 🔥 **Status** | Actively building productivity tools & optimizers |
 | 🤝 **Open To** | System optimization, 3D modeling, mobile app & XeloDev collaborations |
 | 📍 **Specialties** | Full-Stack Development • System Optimization • Cross-Platform Apps • Mobile Development |
-| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 67 public repositories |
+| 🦾 **Current Build** | [ms-r1-f44](https://github.com/TheCreateGM/ms-r1-f44) — Fedora 44 for MS-R1 ARM |
+| 📦 **GitHub** | [github.com/TheCreateGM](https://github.com/TheCreateGM) — 68 public repositories |
 | 📦 **COPR** | Publishing RPM packages on [Fedora COPR](https://copr.fedorainfracloud.org/coprs/axogm/) |
 | 🌐 **is-a.dev** | Personal developer site at [axogm.is-a.dev](https://axogm.is-a.dev) |
 | 🔗 **Codeberg** | Open-source projects on [codeberg.org/axogm](https://codeberg.org/axogm) |
@@ -214,10 +216,12 @@ const axo = {
 📁 Active Projects        10+ concurrent
 🤝 Collaborations         3 ongoing partnerships
 📝 Total Commits          1,200+ contributions
-📦 Total Repositories     67 public repos (GitHub)
-👥 GitHub Followers       16 · Following 4 (verified)
+📦 Total Repositories     68 public repos (GitHub)
+👥 GitHub Followers       16 · Following 4 (verified Oct 2026)
 🌐 Codeberg & Gitea       Active mirrors & standalone projects
 ```
+
+> **GitHub profile bio:** *"The person who always find a way to learn."*
 
 ---
 
@@ -245,7 +249,8 @@ A Linux system combining **2+ GPUs from different vendors** (AMD, NVIDIA, Intel,
 - Memory-safe subsystems written in Rust
 - Qt dashboard + REST API
 
-**Links:** [GitHub](https://github.com/TheCreateGM/mvgal) · [Docs](https://github.com/TheCreateGM/mvgal-docs) · [COPR](https://copr.fedorainfracloud.org/coprs/axogm/mvgal/) · [Ko-fi Shop](https://ko-fi.com/axogm/shop) · [Patreon Shop](https://www.patreon.com/c/axogm/shop)
+**Links:** [Docs](https://github.com/TheCreateGM/mvgal-docs) · [COPR](https://copr.fedorainfracloud.org/coprs/axogm/mvgal/) · [Ko-fi Shop](https://ko-fi.com/axogm/shop) · [Patreon Shop](https://www.patreon.com/c/axogm/shop)  
+*Implementation source is private during early access — docs repo is the public reference (last updated Oct 2026).*
 
 ---
 
@@ -273,7 +278,7 @@ A web-based digital inspection checklist system built for **Maxter Glove Manufac
 
 </div>
 
-> **High-quality low poly 3D weapon models and game assets — 63 assets and counting**
+> **High-quality low poly 3D weapon models and game assets — 63 published assets**
 
 **AVAILABLE ASSETS:**
 
@@ -324,17 +329,19 @@ Comprehensive optimization tool for macOS systems
 </td>
 <td width="50%">
 
-#### 💻 Windows 11 Optimizer
-Performance optimization for Windows 11
+#### 💻 Windows / XAMPP Optimization
+Batch-script tuning utilities for Windows & XAMPP
 
 **Tech:** Batch Script  
-**Status:** ✅ Active (Updated Dec 2025)  
-**Repo:** [optimize-win11](https://github.com/TheCreateGM/optimize-win11)
+**Status:** ✅ Complete (Oct 2025)  
+**Repo:** [xampp-optimization](https://github.com/TheCreateGM/xampp-optimization)
 
 **Features:**
 - System performance tuning
 - Privacy settings optimization
 - Startup management
+
+> The standalone `optimize-win11` repo is no longer public — XAMPP batch tuning is the published artefact.
 
 </td>
 </tr>
@@ -346,7 +353,7 @@ Dual/multi-GPU tooling for Fedora Linux 43
 
 **Tech:** Shell Script  
 **Status:** 🔄 Tester build  
-**Repo:** [dgpuf44](https://github.com/TheCreateGM/dgpuf44)
+**Repo:** [dgpuf44](https://github.com/TheCreateGM/dgpuf44) · 📄 MIT
 
 **Purpose:** Dual GPU configuration/optimization for Fedora Linux (early-access tester)
 
@@ -371,10 +378,22 @@ Laptop-specific optimization for Fedora Linux 43
 Moore Threads S30 GPU support for Fedora Linux 43
 
 **Tech:** C  
-**Status:** 🔄 Active (Updated Aug 2026)  
-**Repo:** [mtts30f43](https://github.com/TheCreateGM/mtts30f43)
+**Status:** 🔄 Active (Updated May 2026)  
+**Repo:** [mtts30f43](https://github.com/TheCreateGM/mtts30f43) · ⭐ 1
 
 **Purpose:** Moore Threads S30 GPU driver/tooling for Fedora Linux
+
+</td>
+<td width="50%">
+
+#### 🦾 MS-R1 ARM Image for Fedora 44
+Fedora 44 builds for the MS-R1 ARM dev kit
+
+**Tech:** Shell Script  
+**Status:** 🔄 Started (Oct 2026)  
+**Repo:** [ms-r1-f44](https://github.com/TheCreateGM/ms-r1-f44)
+
+**Purpose:** Build automation for Fedora Linux 44 on MS-R1 ARM hardware (newest active project)
 
 </td>
 <td width="50%">
@@ -382,9 +401,9 @@ Moore Threads S30 GPU support for Fedora Linux 43
 #### 📱 Android Optimizers
 Device-specific optimization tools
 
-**Devices:** Samsung A34, Lenovo Tab M10
-**Status:** ✅ Active (Updated 2026)
-**Repos:** [samsung-a34](https://github.com/TheCreateGM/samsung-a34-optimizer), [lenovo-tab-m10](https://github.com/TheCreateGM/lenovo-tab-m10-gen3-optimize)
+**Devices:** Samsung A34, Lenovo Tab M10 Gen 3  
+**Status:** ✅ Active (Updated Mar 2026)  
+**Repos:** [samsung-a34](https://github.com/TheCreateGM/samsung-a34-optimizer), [lenovo-tab-m10](https://github.com/TheCreateGM/lenovo-tab-m10-gen3-optimize), [android-phone-optimization](https://github.com/TheCreateGM/android-phone-optimization)
 
 **Features:**
 - Debloating utilities (ADB)
@@ -462,8 +481,9 @@ Modern web solutions
 #### 🖥️ Terminal Portfolio
 Interactive terminal-style portfolio
 
-**Tech:** Vue.js 3, JavaScript  
-**Status:** ✅ [Live](https://thecreategm.github.io/)
+**Tech:** Vue.js 3, JavaScript, Tailwind, Tokyo Night  
+**Status:** ✅ [Live](https://thecreategm.github.io/) · [Source](https://github.com/TheCreateGM/TheCreateGM.github.io)  
+**Commands:** `help`, `about`, `projects`, `contact`, `social`, `skills`, `banner`, `uname`, `matrix`, `sudo` — live GitHub API repo browser
 
 </td>
 </tr>
@@ -476,8 +496,45 @@ Advanced utilities
 **Projects:**
 - [Google Maps LLM](https://github.com/TheCreateGM/google-maps-llm)
 - [Shift Finder](https://github.com/TheCreateGM/shift-finder-app)
-- [HackNews Clone](https://github.com/TheCreateGM/hack-news-clone)
+- [HackNews Clone](https://github.com/TheCreateGM/hack-news-clone) (Go)
+- [AI Chatbox](https://github.com/TheCreateGM/python-ai) — Flask UI for Gemini + ChatGPT APIs
 - [Godot STEX to PNG](https://github.com/TheCreateGM/godotstex2png-web) — browser-based Godot texture converter
+
+</td>
+<td width="33%">
+
+#### 🧾 Python Backend Projects
+Flask & API work
+
+**Projects:**
+- [Midnite Take Home](https://github.com/TheCreateGM/midnite-take-home) — transaction alert API with rule-based alerting
+- [Tkinter Notes](https://github.com/TheCreateGM/note-app) — Tkinter + SQLite note app
+- [Tkinter/SQLite Mini Project](https://github.com/TheCreateGM/example-mini-project-python)
+
+</td>
+<td width="33%">
+
+#### 🧪 Academic Java (IPT)
+Coursework — DFP50273 Integrative Programming & Technologies
+
+**Projects:**
+- [Donation Management System](https://github.com/TheCreateGM/ipt-project) — Java Swing + MySQL, full CRUD
+- [Note Application](https://github.com/TheCreateGM/ipt-case-study-1) — AWT/Swing + MySQL, auth + notes CRUD
+- [Java GUI / OOP](https://github.com/TheCreateGM/java-gui-exercise), [OOP Stuff](https://github.com/TheCreateGM/OOP-java-stuff)
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🖼️ Frontend Projects
+Modern web solutions
+
+**Projects:**
+- [Todo App](https://github.com/TheCreateGM/todo-app-react) (React, Tailwind, shadcn/ui)
+- [Terminal Dashboard](https://github.com/TheCreateGM/home-page) — clock, weather, net speed, media controller
+- [Gallery](https://github.com/TheCreateGM/interactive-canva-gallery)
+- [Account Mgmt](https://github.com/TheCreateGM/vue-account-management) (Vue)
 
 </td>
 <td width="33%">
@@ -552,9 +609,10 @@ VB.NET applications
 #### 🐍 Tkinter Studio
 Visual Studio-style GUI for Tkinter, plus a smaller Tkinter/SQLite mini-project
 
-**Tech:** Python, Tkinter, SQLite  
-**Status:** 🔄 Work in Progress (May 2025)
-**Repo:** [example-mini-project-python](https://github.com/TheCreateGM/example-mini-project-python)
+**Tech:** Shell Script  
+**Status:** 🔄 Work in Progress (May 2025)  
+**Repo:** [tkinterstudio](https://github.com/TheCreateGM/tkinterstudio) — drag-and-drop Python UI designer  
+**Also:** [example-mini-project-python](https://github.com/TheCreateGM/example-mini-project-python)
 
 </td>
 </tr>
@@ -573,7 +631,8 @@ Custom Minecraft Bedrock server
 
 **Tech:** PHP, C, C++  
 **Status:** ✅ Active (Jul 2025)  
-**License:** GNU LGPL v3.0
+**License:** GNU LGPL v3.0  
+**Repo:** [PocketMine-MP-Alpha_1.3.10](https://github.com/TheCreateGM/PocketMine-MP-Alpha_1.3.10)
 
 **Features:**
 - PHP 8 support
@@ -601,7 +660,8 @@ Old alpha Minecraft clone
 Robot configuration project
 
 **Tech:** Configuration files  
-**Status:** ✅ Complete (May 2025)
+**Status:** ✅ Complete (May 2025)  
+**Repo:** [cobot](https://github.com/TheCreateGM/cobot)
 
 **Purpose:** Configuration for collaborative robot systems
 
@@ -616,6 +676,32 @@ OpenCore EFI for ASUS X515AE (Tiger Lake)
 **Repo:** [OpenCore-X515AE-TigerLake](https://github.com/TheCreateGM/OpenCore-X515AE-TigerLake)
 
 **Purpose:** OpenCore bootloader configuration for hackintosh
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🖨️ Blender 3D Pipeline
+Source scenes behind the Itch.io asset library
+
+**Tech:** Blender, G-code  
+**Status:** ✅ Ongoing  
+**Repos:** [weapon-blender](https://github.com/TheCreateGM/weapon-blender) (weapon scenes), [phone-holder-3d](https://github.com/TheCreateGM/phone-holder-3d) (3D-printable G-code)
+
+**Purpose:** Model authoring source files + printable output
+
+</td>
+<td width="50%">
+
+#### 🧬 Cordova & jQuery Mobile
+Legacy mobile experiments
+
+**Tech:** Apache Cordova, jQuery Mobile  
+**Status:** 📦 Archived  
+**Repos:** [web-to-app-guide](https://github.com/TheCreateGM/web-to-app-guide) (Cordova → Android guide), [jqm-web-project](https://github.com/TheCreateGM/jqm-web-project)
+
+**Purpose:** Web-to-native packaging reference material
 
 </td>
 </tr>
@@ -737,13 +823,16 @@ Lightweight self-hosted-style repositories
 #### 🌐 axogm.is-a.dev
 Personal developer domain & landing page
 
-**Site:** [axogm.is-a.dev](https://axogm.is-a.dev)  
-**Status:** ✅ Live
+**Site:** [axogm.is-a.dev](https://axogm.is-a.dev) · [Company page](https://axogm.is-a.dev/company)  
+**Status:** ✅ Live  
+**Tagline:** *"Hello, I'm AxoGM — I'm a fullstack Engineer."*
 
+**Sections:** Information · Projects · Social Media · Product · Company · Event  
 **Purpose:**
 - Central developer identity
 - Portfolio & project showcase
 - Professional online presence
+- Privacy-friendly analytics only (no personal data collected, IP anonymized)
 
 </td>
 <td width="50%">
@@ -751,8 +840,11 @@ Personal developer domain & landing page
 #### 🖥️ Terminal Portfolio
 Interactive terminal-style portfolio (GitHub Pages)
 
-**Site:** [thecreategm.github.io](https://thecreategm.github.io/)  
-**Status:** ✅ Live (Vue.js-driven terminal UI)
+**Site:** [thecreategm.github.io](https://thecreategm.github.io/) · [Source](https://github.com/TheCreateGM/TheCreateGM.github.io)  
+**Status:** ✅ Live (Vue 3 terminal UI, Tokyo Night theme, matrix rain background)
+
+**Commands:** `help`, `about`, `projects`, `contact`, `social`, `skills`, `banner`, `date`, `echo`, `pwd`, `ls`, `uname`, `whoami`, `matrix`, `sudo`, `clear`  
+**Highlights:** live GitHub API repo browser · tab completion · command history · uptime counter
 
 </td>
 </tr>
@@ -782,18 +874,22 @@ Interactive terminal-style portfolio (GitHub Pages)
 
 ### Q3 2026 (Jul - Sep)
 - [x] MVGAL early access release (v0.2.0)
-- [x] MTT S30 GPU tooling for Fedora 43 (mtts30f43)
+- [x] MTT S30 GPU tooling for Fedora 43 (mtts30f43, shipped May 2026)
+- [x] MVGAL docs continuously maintained (last push 4 Oct 2026)
 - [ ] LabTech enhancements
 - [ ] AI features integration for optimization tools
 - [ ] Complete "Classical Weapons" collection
 - [ ] Mentor 2 junior developers
 - [ ] Expand MVGAL from docs into public implementation repos
 
-### Q4 2026 (Oct - Dec)
+### Q4 2026 (Oct - Dec) — *current*
+- [~] **Fedora 44 on MS-R1 ARM** — build automation started Oct 2026 ([ms-r1-f44](https://github.com/TheCreateGM/ms-r1-f44))
+- [~] Personal site refresh — events/planner feed live on [axogm.is-a.dev](https://axogm.is-a.dev)
 - [ ] Performance optimization across all projects
 - [ ] Cloud deployment preparation
 - [ ] Production release of all major tools
 - [ ] Community workshop on game assets
+- [ ] Publish MVGAL implementation repo after early-access feedback
 
 ---
 
@@ -803,19 +899,20 @@ Interactive terminal-style portfolio (GitHub Pages)
 
 | Achievement | Status | Details |
 |------------|---------|---------|
-| 📦 **67 Repositories** | ✅ Verified | Diverse range of projects on GitHub — incl. [mvgal-docs](https://github.com/TheCreateGM/mvgal-docs), [mtts30f43](https://github.com/TheCreateGM/mtts30f43), [OpenCore-X515AE-TigerLake](https://github.com/TheCreateGM/OpenCore-X515AE-TigerLake) |
-| 👥 **16 GitHub Followers** | ✅ Verified | Following 4 |
+| 📦 **68 Repositories** | ✅ Verified | Diverse range of projects on GitHub — incl. [mvgal-docs](https://github.com/TheCreateGM/mvgal-docs) (2★, updated Oct 2026), [ms-r1-f44](https://github.com/TheCreateGM/ms-r1-f44), [mtts30f43](https://github.com/TheCreateGM/mtts30f43), [dgpuf44](https://github.com/TheCreateGM/dgpuf44) (2★), [OpenCore-X515AE-TigerLake](https://github.com/TheCreateGM/OpenCore-X515AE-TigerLake) |
+| 👥 **16 GitHub Followers** | ✅ Verified | Following 4 · checked Oct 2026 |
 | 🤝 **Open Source** | ✅ Complete | Contributions across GitHub, Gitea & Codeberg |
 | 🔧 **Optimization Tools** | ✅ Complete | Multi-platform system optimizers, incl. Fedora GPU/laptop testers |
 | 💻 **Full-Stack Apps** | ✅ Complete | Multiple production applications |
 | 📱 **Mobile Development** | ✅ Complete | Android & cross-platform apps |
 | ⚡ **Active Maintenance** | ✅ Complete | Regular project updates |
-| 🎨 **63 3D Assets** | ✅ Verified | Low-poly weapon/model library live on Itch.io (checked Aug 2026) |
-| 📦 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux |
+| 🎨 **63 3D Assets** | ✅ Verified | Low-poly weapon/model library live on Itch.io (all 63 links re-checked Oct 2026) |
+| 📦 **Fedora COPR** | ✅ Complete | RPM packages published for Fedora Linux (incl. MVGAL) |
 | 🏢 **Maxter Glove** | ✅ Complete | Supermax E-Checklist Controller live in production |
-| 🌐 **axogm.is-a.dev** | ✅ Complete | Personal developer domain & landing page |
-| 🔗 **Codeberg** | ✅ Verified | 1 public repo: [mvgal-docs](https://codeberg.org/axogm/mvgal-docs) |
-| 🔗 **Gitea** | ✅ Verified | 2 public repos: mvgal-docs, web2-temp |
+| 🌐 **axogm.is-a.dev** | ✅ Complete | Personal developer domain — Information, Projects, Social Media, Product, Company & Event sections |
+| 🖥️ **Terminal Portfolio** | ✅ Complete | Vue 3 terminal UI with live GitHub repo browser |
+| 🔗 **Codeberg** | ⚠️ Unverified | 1 public repo reported: [mvgal-docs](https://codeberg.org/axogm/mvgal-docs) — Anubis bot-protection blocked re-check |
+| 🔗 **Gitea** | ⚠️ Unverified | 2 public repos reported: mvgal-docs, web2-temp — both resolving HTTP 200 |
 
 </div>
 
@@ -826,6 +923,9 @@ Interactive terminal-style portfolio (GitHub Pages)
 > **Build Smart. Run Fast.**
 
 [XeloDev](https://github.com/XeloDev) is a small, independent development team focused on building high-performance systems, reliable software, and immersive game experiences. We combine low-level system optimization with modern development practices to create efficient, scalable, and user-focused solutions.
+
+**Founded:** February 2026  
+**Public repos (2):** [.github](https://github.com/XeloDev/.github) (org profile), [tkinterstudio](https://github.com/XeloDev/tkinterstudio) — drag-and-drop Tkinter GUI designer
 
 **Focus Areas:**
 - System Development & Optimization
@@ -971,6 +1071,6 @@ Interests:
 
 ---
 
-<sub>Last Updated: September 2026 • Status: Actively Maintained ✅ • Verified against GitHub, Itch.io, axogm.is-a.dev, and Terminal Portfolio</sub>
+<sub>Last Updated: October 2026 • Status: Actively Maintained ✅ • Verified against GitHub API (68 repos), Itch.io (63 assets), axogm.is-a.dev, and Terminal Portfolio</sub>
 
 </div>
